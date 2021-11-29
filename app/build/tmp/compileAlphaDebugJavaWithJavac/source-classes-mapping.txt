@@ -1,0 +1,482 @@
+org/wikipedia/databinding/ViewCardDayHeaderBinding.java
+ org.wikipedia.databinding.ViewCardDayHeaderBinding
+org/wikipedia/dataclient/SharedPreferenceCookieManager.java
+ org.wikipedia.dataclient.SharedPreferenceCookieManager
+org/wikipedia/databinding/FragmentFilePageBinding.java
+ org.wikipedia.databinding.FragmentFilePageBinding
+org/wikipedia/databinding/DialogThemeChooserBinding.java
+ org.wikipedia.databinding.DialogThemeChooserBinding
+org/wikipedia/databinding/FragmentContributionDiffDetailBinding.java
+ org.wikipedia.databinding.FragmentContributionDiffDetailBinding
+org/wikipedia/databinding/InflateDescriptionEditTutorialPageTwoBinding.java
+ org.wikipedia.databinding.InflateDescriptionEditTutorialPageTwoBinding
+org/wikipedia/databinding/ItemReadingListBinding.java
+ org.wikipedia.databinding.ItemReadingListBinding
+org/wikipedia/databinding/ItemPageListEntryBinding.java
+ org.wikipedia.databinding.ItemPageListEntryBinding
+org/wikipedia/databinding/FragmentThemeFittingRoomBinding.java
+ org.wikipedia.databinding.FragmentThemeFittingRoomBinding
+org/wikipedia/databinding/ViewOnboardingPageBinding.java
+ org.wikipedia.databinding.ViewOnboardingPageBinding
+org/wikipedia/databinding/ItemNotificationDateBinding.java
+ org.wikipedia.databinding.ItemNotificationDateBinding
+org/wikipedia/databinding/FragmentGalleryItemBinding.java
+ org.wikipedia.databinding.FragmentGalleryItemBinding
+org/wikipedia/databinding/ItemSuggestedEditsContributionsBinding.java
+ org.wikipedia.databinding.ItemSuggestedEditsContributionsBinding
+org/wikipedia/databinding/FragmentPageBinding.java
+ org.wikipedia.databinding.FragmentPageBinding
+org/wikipedia/history/SearchActionModeCallback.java
+ org.wikipedia.history.SearchActionModeCallback
+ org.wikipedia.history.SearchActionModeCallback$1
+org/wikipedia/databinding/ItemLanguageSpinnerBinding.java
+ org.wikipedia.databinding.ItemLanguageSpinnerBinding
+org/wikipedia/databinding/ViewArticleTabLayoutBinding.java
+ org.wikipedia.databinding.ViewArticleTabLayoutBinding
+org/wikipedia/databinding/PreferenceMultilineWithSystemActionBinding.java
+ org.wikipedia.databinding.PreferenceMultilineWithSystemActionBinding
+org/wikipedia/databinding/ItemWatchlistHeaderBinding.java
+ org.wikipedia.databinding.ItemWatchlistHeaderBinding
+org/wikipedia/databinding/FragmentOnThisDayBinding.java
+ org.wikipedia.databinding.FragmentOnThisDayBinding
+org/wikipedia/language/AcceptLanguageUtil.java
+ org.wikipedia.language.AcceptLanguageUtil
+org/wikipedia/databinding/FragmentSearchResultsBinding.java
+ org.wikipedia.databinding.FragmentSearchResultsBinding
+org/wikipedia/databinding/ViewCardHeaderLargeBinding.java
+ org.wikipedia.databinding.ViewCardHeaderLargeBinding
+org/wikipedia/databinding/ViewImageDetailBinding.java
+ org.wikipedia.databinding.ViewImageDetailBinding
+org/wikipedia/database/AppDatabase_Impl.java
+ org.wikipedia.database.AppDatabase_Impl
+ org.wikipedia.database.AppDatabase_Impl$1
+org/wikipedia/history/db/HistoryEntryDao_Impl.java
+ org.wikipedia.history.db.HistoryEntryDao_Impl
+ org.wikipedia.history.db.HistoryEntryDao_Impl$1
+ org.wikipedia.history.db.HistoryEntryDao_Impl$2
+ org.wikipedia.history.db.HistoryEntryDao_Impl$3
+ org.wikipedia.history.db.HistoryEntryDao_Impl$4
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+org/wikipedia/databinding/ViewMainDrawerBinding.java
+ org.wikipedia.databinding.ViewMainDrawerBinding
+org/wikipedia/databinding/ViewWatchlistPageTooltipBinding.java
+ org.wikipedia.databinding.ViewWatchlistPageTooltipBinding
+org/wikipedia/databinding/PreferenceDialogEdittextBinding.java
+ org.wikipedia.databinding.PreferenceDialogEdittextBinding
+org/wikipedia/databinding/ViewLinkPreviewOverlayBinding.java
+ org.wikipedia.databinding.ViewLinkPreviewOverlayBinding
+org/wikipedia/feed/announcement/GeoIPCookie.java
+ org.wikipedia.feed.announcement.GeoIPCookie
+org/wikipedia/databinding/ViewCardProgressBinding.java
+ org.wikipedia.databinding.ViewCardProgressBinding
+org/wikipedia/databinding/ViewActionModeCloseButtonBinding.java
+ org.wikipedia.databinding.ViewActionModeCloseButtonBinding
+org/wikipedia/databinding/ItemOnboardingOptionsRecyclerBinding.java
+ org.wikipedia.databinding.ItemOnboardingOptionsRecyclerBinding
+org/wikipedia/databinding/ViewWikiArticleCardBinding.java
+ org.wikipedia.databinding.ViewWikiArticleCardBinding
+org/wikipedia/databinding/ViewLinkPreviewErrorBinding.java
+ org.wikipedia.databinding.ViewLinkPreviewErrorBinding
+org/wikipedia/databinding/ActivitySingleFragmentBinding.java
+ org.wikipedia.databinding.ActivitySingleFragmentBinding
+org/wikipedia/language/AppLanguageLookUpTable.java
+ org.wikipedia.language.AppLanguageLookUpTable
+org/wikipedia/databinding/ItemFeedContentTypeLangBoxBinding.java
+ org.wikipedia.databinding.ItemFeedContentTypeLangBoxBinding
+org/wikipedia/databinding/GroupFindInPageBinding.java
+ org.wikipedia.databinding.GroupFindInPageBinding
+org/wikipedia/databinding/DialogSortReadingListsBinding.java
+ org.wikipedia.databinding.DialogSortReadingListsBinding
+org/wikipedia/databinding/ViewReadingListsOverflowBinding.java
+ org.wikipedia.databinding.ViewReadingListsOverflowBinding
+org/wikipedia/databinding/ViewCardFeaturedArticleBinding.java
+ org.wikipedia.databinding.ViewCardFeaturedArticleBinding
+org/wikipedia/databinding/ItemSearchNoResultsBinding.java
+ org.wikipedia.databinding.ItemSearchNoResultsBinding
+org/wikipedia/databinding/InflateInitialOnboardingPageTwoBinding.java
+ org.wikipedia.databinding.InflateInitialOnboardingPageTwoBinding
+org/wikipedia/databinding/ViewReferencePagerItemBinding.java
+ org.wikipedia.databinding.ViewReferencePagerItemBinding
+org/wikipedia/databinding/ViewMessageCardBinding.java
+ org.wikipedia.databinding.ViewMessageCardBinding
+org/wikipedia/databinding/FragmentWikipediaLanguagesBinding.java
+ org.wikipedia.databinding.FragmentWikipediaLanguagesBinding
+org/wikipedia/databinding/ViewDescriptionEditRevertHelpBinding.java
+ org.wikipedia.databinding.ViewDescriptionEditRevertHelpBinding
+org/wikipedia/databinding/ViewSuggestedEditsCardBinding.java
+ org.wikipedia.databinding.ViewSuggestedEditsCardBinding
+org/wikipedia/databinding/InflateInitialOnboardingPageOneBinding.java
+ org.wikipedia.databinding.InflateInitialOnboardingPageOneBinding
+org/wikipedia/databinding/ViewNotificationSearchBarBinding.java
+ org.wikipedia.databinding.ViewNotificationSearchBarBinding
+org/wikipedia/databinding/ItemFeedContentTypeLangSelectDialogBinding.java
+ org.wikipedia.databinding.ItemFeedContentTypeLangSelectDialogBinding
+org/wikipedia/databinding/ItemOnThisDayPagesBinding.java
+ org.wikipedia.databinding.ItemOnThisDayPagesBinding
+org/wikipedia/databinding/WidgetSearchBinding.java
+ org.wikipedia.databinding.WidgetSearchBinding
+org/wikipedia/databinding/ItemWiktionaryDefinitionWithExamplesBinding.java
+ org.wikipedia.databinding.ItemWiktionaryDefinitionWithExamplesBinding
+org/wikipedia/databinding/FragmentPreviewSummaryBinding.java
+ org.wikipedia.databinding.FragmentPreviewSummaryBinding
+org/wikipedia/databinding/ActivityAboutBinding.java
+ org.wikipedia.databinding.ActivityAboutBinding
+org/wikipedia/databinding/FragmentSearchBinding.java
+ org.wikipedia.databinding.FragmentSearchBinding
+org/wikipedia/databinding/ViewDescriptionEditSuccessBinding.java
+ org.wikipedia.databinding.ViewDescriptionEditSuccessBinding
+org/wikipedia/databinding/ViewCardAccessibilityBinding.java
+ org.wikipedia.databinding.ViewCardAccessibilityBinding
+org/wikipedia/dataclient/okhttp/GlideRequests.java
+ org.wikipedia.dataclient.okhttp.GlideRequests
+org/wikipedia/databinding/InflateDescriptionEditTutorialPageOneBinding.java
+ org.wikipedia.databinding.InflateDescriptionEditTutorialPageOneBinding
+org/wikipedia/databinding/ViewImageDetailHorizontalBinding.java
+ org.wikipedia.databinding.ViewImageDetailHorizontalBinding
+org/wikipedia/databinding/DialogAddToReadingListBinding.java
+ org.wikipedia.databinding.DialogAddToReadingListBinding
+org/wikipedia/databinding/DialogTextInputBinding.java
+ org.wikipedia.databinding.DialogTextInputBinding
+org/wikipedia/readinglist/db/ReadingListPageDao_Impl.java
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl$1
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl$2
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl$3
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl$4
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl$5
+ org.wikipedia.readinglist.db.ReadingListPageDao_Impl$6
+org/wikipedia/databinding/ViewPageHeaderBinding.java
+ org.wikipedia.databinding.ViewPageHeaderBinding
+org/wikipedia/databinding/DialogEditNoticesBinding.java
+ org.wikipedia.databinding.DialogEditNoticesBinding
+org/wikipedia/databinding/ViewPageActionOverflowBinding.java
+ org.wikipedia.databinding.ViewPageActionOverflowBinding
+org/wikipedia/databinding/DialogWithCheckboxBinding.java
+ org.wikipedia.databinding.DialogWithCheckboxBinding
+org/wikipedia/databinding/ActivityTalkTopicsBinding.java
+ org.wikipedia.databinding.ActivityTalkTopicsBinding
+org/wikipedia/dataclient/okhttp/GlideApp.java
+ org.wikipedia.dataclient.okhttp.GlideApp
+org/wikipedia/databinding/ActivityNotificationsBinding.java
+ org.wikipedia.databinding.ActivityNotificationsBinding
+org/wikipedia/databinding/ViewThankDialogBinding.java
+ org.wikipedia.databinding.ViewThankDialogBinding
+org/wikipedia/feed/announcement/GeoIPCookieUnmarshaller.java
+ org.wikipedia.feed.announcement.GeoIPCookieUnmarshaller
+ org.wikipedia.feed.announcement.GeoIPCookieUnmarshaller$Component
+org/wikipedia/databinding/FragmentRandomItemBinding.java
+ org.wikipedia.databinding.FragmentRandomItemBinding
+org/wikipedia/databinding/ViewPreferenceLogoutBinding.java
+ org.wikipedia.databinding.ViewPreferenceLogoutBinding
+org/wikipedia/databinding/FragmentSuggestedEditsCardsBinding.java
+ org.wikipedia.databinding.FragmentSuggestedEditsCardsBinding
+org/wikipedia/databinding/ActivityCreateAccountBinding.java
+ org.wikipedia.databinding.ActivityCreateAccountBinding
+org/wikipedia/databinding/ActivityLoginBinding.java
+ org.wikipedia.databinding.ActivityLoginBinding
+org/wikipedia/databinding/ViewImageTitleDescriptionBinding.java
+ org.wikipedia.databinding.ViewImageTitleDescriptionBinding
+org/wikipedia/databinding/ItemWiktionaryDefinitionsListBinding.java
+ org.wikipedia.databinding.ItemWiktionaryDefinitionsListBinding
+org/wikipedia/dataclient/okhttp/GlideRequest.java
+ org.wikipedia.dataclient.okhttp.GlideRequest
+org/wikipedia/databinding/ItemTalkTopicBinding.java
+ org.wikipedia.databinding.ItemTalkTopicBinding
+org/wikipedia/databinding/ActivityTabsBinding.java
+ org.wikipedia.databinding.ActivityTabsBinding
+org/wikipedia/databinding/ViewDescriptionEditReadArticleBarBinding.java
+ org.wikipedia.databinding.ViewDescriptionEditReadArticleBarBinding
+org/wikipedia/databinding/ItemSuggestedEditsTypeBinding.java
+ org.wikipedia.databinding.ItemSuggestedEditsTypeBinding
+org/wikipedia/databinding/ItemNotificationFilterBinding.java
+ org.wikipedia.databinding.ItemNotificationFilterBinding
+org/wikipedia/databinding/ItemGalleryThumbnailBinding.java
+ org.wikipedia.databinding.ItemGalleryThumbnailBinding
+org/wikipedia/databinding/FragmentRandomBinding.java
+ org.wikipedia.databinding.FragmentRandomBinding
+org/wikipedia/databinding/ItemSearchRecentBinding.java
+ org.wikipedia.databinding.ItemSearchRecentBinding
+org/wikipedia/pageimages/db/PageImageDao_Impl.java
+ org.wikipedia.pageimages.db.PageImageDao_Impl
+ org.wikipedia.pageimages.db.PageImageDao_Impl$1
+org/wikipedia/databinding/ViewCardHeaderBinding.java
+ org.wikipedia.databinding.ViewCardHeaderBinding
+org/wikipedia/databinding/ItemWatchlistLanguageBinding.java
+ org.wikipedia.databinding.ItemWatchlistLanguageBinding
+org/wikipedia/databinding/ItemLanguageListEntryBinding.java
+ org.wikipedia.databinding.ItemLanguageListEntryBinding
+org/wikipedia/databinding/ViewLanguageScrollBinding.java
+ org.wikipedia.databinding.ViewLanguageScrollBinding
+org/wikipedia/databinding/ItemNotificationBinding.java
+ org.wikipedia.databinding.ItemNotificationBinding
+org/wikipedia/databinding/ViewNotificationActionsOverflowBinding.java
+ org.wikipedia.databinding.ViewNotificationActionsOverflowBinding
+org/wikipedia/databinding/ViewSearchEmptyBinding.java
+ org.wikipedia.databinding.ViewSearchEmptyBinding
+org/wikipedia/databinding/ViewWikitextKeyboardBinding.java
+ org.wikipedia.databinding.ViewWikitextKeyboardBinding
+org/wikipedia/readinglist/db/ReadingListDao_Impl.java
+ org.wikipedia.readinglist.db.ReadingListDao_Impl
+ org.wikipedia.readinglist.db.ReadingListDao_Impl$1
+ org.wikipedia.readinglist.db.ReadingListDao_Impl$2
+ org.wikipedia.readinglist.db.ReadingListDao_Impl$3
+ org.wikipedia.readinglist.db.ReadingListDao_Impl$4
+org/wikipedia/databinding/ViewWikipediaLanguageFooterBinding.java
+ org.wikipedia.databinding.ViewWikipediaLanguageFooterBinding
+org/wikipedia/databinding/ViewReadingListPageActionsBinding.java
+ org.wikipedia.databinding.ViewReadingListPageActionsBinding
+org/wikipedia/databinding/FragmentReadingListBinding.java
+ org.wikipedia.databinding.FragmentReadingListBinding
+org/wikipedia/databinding/FragmentSuggestedEditsCardItemBinding.java
+ org.wikipedia.databinding.FragmentSuggestedEditsCardItemBinding
+org/wikipedia/databinding/ItemEditActionbarButtonBinding.java
+ org.wikipedia.databinding.ItemEditActionbarButtonBinding
+org/wikipedia/language/AppLanguageState.java
+ org.wikipedia.language.AppLanguageState
+org/wikipedia/databinding/InflateLoginAndAccountCreationFooterBinding.java
+ org.wikipedia.databinding.InflateLoginAndAccountCreationFooterBinding
+org/wikipedia/databinding/FragmentMainBinding.java
+ org.wikipedia.databinding.FragmentMainBinding
+org/wikipedia/databinding/ActivityLicenseBinding.java
+ org.wikipedia.databinding.ActivityLicenseBinding
+org/wikipedia/databinding/ViewDescriptionEditLicenseBinding.java
+ org.wikipedia.databinding.ViewDescriptionEditLicenseBinding
+org/wikipedia/databinding/GroupCaptchaBinding.java
+ org.wikipedia.databinding.GroupCaptchaBinding
+org/wikipedia/databinding/ActivityTalkTopicBinding.java
+ org.wikipedia.databinding.ActivityTalkTopicBinding
+org/wikipedia/databinding/DialogImageTagSelectBinding.java
+ org.wikipedia.databinding.DialogImageTagSelectBinding
+org/wikipedia/databinding/DialogWatchlistExpiryBinding.java
+ org.wikipedia.databinding.DialogWatchlistExpiryBinding
+org/wikipedia/databinding/ItemTocEntryBinding.java
+ org.wikipedia.databinding.ItemTocEntryBinding
+org/wikipedia/databinding/ViewPlainTextTooltipBinding.java
+ org.wikipedia.databinding.ViewPlainTextTooltipBinding
+org/wikipedia/databinding/ViewOnboardingLanguageListBinding.java
+ org.wikipedia.databinding.ViewOnboardingLanguageListBinding
+org/wikipedia/databinding/FragmentFeedBinding.java
+ org.wikipedia.databinding.FragmentFeedBinding
+org/wikipedia/databinding/ViewReadingListsSortOptionsItemBinding.java
+ org.wikipedia.databinding.ViewReadingListsSortOptionsItemBinding
+org/wikipedia/databinding/ItemWiktionaryExampleBinding.java
+ org.wikipedia.databinding.ItemWiktionaryExampleBinding
+org/wikipedia/databinding/ItemSearchResultBinding.java
+ org.wikipedia.databinding.ItemSearchResultBinding
+org/wikipedia/dataclient/okhttp/GlideOptions.java
+ org.wikipedia.dataclient.okhttp.GlideOptions
+org/wikipedia/databinding/FragmentDescriptionEditSuccessBinding.java
+ org.wikipedia.databinding.FragmentDescriptionEditSuccessBinding
+org/wikipedia/databinding/DialogWiktionaryBinding.java
+ org.wikipedia.databinding.DialogWiktionaryBinding
+org/wikipedia/databinding/ViewNotificationFilterHeaderBinding.java
+ org.wikipedia.databinding.ViewNotificationFilterHeaderBinding
+org/wikipedia/databinding/ItemWatchlistBinding.java
+ org.wikipedia.databinding.ItemWatchlistBinding
+org/wikipedia/databinding/FragmentPreviewEditBinding.java
+ org.wikipedia.databinding.FragmentPreviewEditBinding
+org/wikipedia/databinding/ViewWikiErrorBinding.java
+ org.wikipedia.databinding.ViewWikiErrorBinding
+org/wikipedia/databinding/FragmentSuggestedEditsCardsItemBinding.java
+ org.wikipedia.databinding.FragmentSuggestedEditsCardsItemBinding
+org/wikipedia/databinding/ViewSectionHeaderBinding.java
+ org.wikipedia.databinding.ViewSectionHeaderBinding
+org/wikipedia/edit/db/EditSummaryDao_Impl.java
+ org.wikipedia.edit.db.EditSummaryDao_Impl
+ org.wikipedia.edit.db.EditSummaryDao_Impl$1
+ org.wikipedia.edit.db.EditSummaryDao_Impl$2
+ org.wikipedia.edit.db.EditSummaryDao_Impl$3
+ org.wikipedia.edit.db.EditSummaryDao_Impl$4
+ org.wikipedia.edit.db.EditSummaryDao_Impl$5
+org/wikipedia/databinding/ViewStaticCardBinding.java
+ org.wikipedia.databinding.ViewStaticCardBinding
+org/wikipedia/WikipediaApp.java
+ org.wikipedia.WikipediaApp
+org/wikipedia/databinding/ViewWatchlistMainTooltipBinding.java
+ org.wikipedia.databinding.ViewWatchlistMainTooltipBinding
+org/wikipedia/databinding/ViewNotificationDotBinding.java
+ org.wikipedia.databinding.ViewNotificationDotBinding
+org/wikipedia/databinding/ViewCardOnThisDayBinding.java
+ org.wikipedia.databinding.ViewCardOnThisDayBinding
+org/wikipedia/databinding/FragmentReadingListsBinding.java
+ org.wikipedia.databinding.FragmentReadingListsBinding
+org/wikipedia/databinding/FragmentHistoryBinding.java
+ org.wikipedia.databinding.FragmentHistoryBinding
+org/wikipedia/databinding/ViewSearchBarBinding.java
+ org.wikipedia.databinding.ViewSearchBarBinding
+org/wikipedia/databinding/ItemFeedContentTypeLangSelectItemBinding.java
+ org.wikipedia.databinding.ItemFeedContentTypeLangSelectItemBinding
+org/wikipedia/databinding/FragmentNewsBinding.java
+ org.wikipedia.databinding.FragmentNewsBinding
+org/wikipedia/databinding/ViewCustomCalendarDayBinding.java
+ org.wikipedia.databinding.ViewCustomCalendarDayBinding
+org/wikipedia/databinding/ViewTabsCountBinding.java
+ org.wikipedia.databinding.ViewTabsCountBinding
+org/wikipedia/databinding/FragmentContributionsSuggestedEditsBinding.java
+ org.wikipedia.databinding.FragmentContributionsSuggestedEditsBinding
+org/wikipedia/history/db/HistoryEntryWithImageDao_Impl.java
+ org.wikipedia.history.db.HistoryEntryWithImageDao_Impl
+org/wikipedia/databinding/GroupSearchBinding.java
+ org.wikipedia.databinding.GroupSearchBinding
+org/wikipedia/databinding/ActivityLanglinksBinding.java
+ org.wikipedia.databinding.ActivityLanglinksBinding
+org/wikipedia/databinding/GroupFindReferencesInPageBinding.java
+ org.wikipedia.databinding.GroupFindReferencesInPageBinding
+org/wikipedia/databinding/ItemWikidataLabelBinding.java
+ org.wikipedia.databinding.ItemWikidataLabelBinding
+org/wikipedia/analytics/eventplatform/EventPlatformClient.java
+ org.wikipedia.analytics.eventplatform.EventPlatformClient
+ org.wikipedia.analytics.eventplatform.EventPlatformClient$AssociationController
+ org.wikipedia.analytics.eventplatform.EventPlatformClient$OutputBuffer
+ org.wikipedia.analytics.eventplatform.EventPlatformClient$SamplingController
+org/wikipedia/databinding/ViewDescriptionEditBinding.java
+ org.wikipedia.databinding.ViewDescriptionEditBinding
+org/wikipedia/databinding/WidgetFeaturedPageBinding.java
+ org.wikipedia.databinding.WidgetFeaturedPageBinding
+org/wikipedia/databinding/FragmentFeedConfigureBinding.java
+ org.wikipedia.databinding.FragmentFeedConfigureBinding
+org/wikipedia/databinding/PreferenceMultilineWithExternalLinkBinding.java
+ org.wikipedia.databinding.PreferenceMultilineWithExternalLinkBinding
+org/wikipedia/settings/PrefsIoUtil.java
+ org.wikipedia.settings.PrefsIoUtil
+org/wikipedia/databinding/DialogLinkPreviewBinding.java
+ org.wikipedia.databinding.DialogLinkPreviewBinding
+org/wikipedia/databinding/ViewNotificationButtonBinding.java
+ org.wikipedia.databinding.ViewNotificationButtonBinding
+org/wikipedia/databinding/ItemFeedContentTypeBinding.java
+ org.wikipedia.databinding.ItemFeedContentTypeBinding
+org/wikipedia/notifications/db/NotificationDao_Impl.java
+ org.wikipedia.notifications.db.NotificationDao_Impl
+ org.wikipedia.notifications.db.NotificationDao_Impl$1
+ org.wikipedia.notifications.db.NotificationDao_Impl$2
+ org.wikipedia.notifications.db.NotificationDao_Impl$3
+ org.wikipedia.notifications.db.NotificationDao_Impl$4
+ org.wikipedia.notifications.db.NotificationDao_Impl$5
+org/wikipedia/databinding/ViewSuggestedEditsTaskItemBinding.java
+ org.wikipedia.databinding.ViewSuggestedEditsTaskItemBinding
+org/wikipedia/databinding/ViewListCardItemBinding.java
+ org.wikipedia.databinding.ViewListCardItemBinding
+org/wikipedia/databinding/ViewEventsLayoutBinding.java
+ org.wikipedia.databinding.ViewEventsLayoutBinding
+org/wikipedia/databinding/FragmentOnboardingPagerBinding.java
+ org.wikipedia.databinding.FragmentOnboardingPagerBinding
+org/wikipedia/BuildConfig.java
+ org.wikipedia.BuildConfig
+org/wikipedia/databinding/ItemTabContentsBinding.java
+ org.wikipedia.databinding.ItemTabContentsBinding
+org/wikipedia/databinding/ViewWatchlistLanguagePopupBinding.java
+ org.wikipedia.databinding.ViewWatchlistLanguagePopupBinding
+org/wikipedia/databinding/FragmentSuggestedEditsTasksBinding.java
+ org.wikipedia.databinding.FragmentSuggestedEditsTasksBinding
+org/wikipedia/databinding/ViewCardAnnouncementBinding.java
+ org.wikipedia.databinding.ViewCardAnnouncementBinding
+org/wikipedia/databinding/ViewFilePageBinding.java
+ org.wikipedia.databinding.ViewFilePageBinding
+org/wikipedia/databinding/ActivityNotificationsFiltersBinding.java
+ org.wikipedia.databinding.ActivityNotificationsFiltersBinding
+org/wikipedia/databinding/FragmentWatchlistBinding.java
+ org.wikipedia.databinding.FragmentWatchlistBinding
+org/wikipedia/databinding/ViewSearchAndFilterBinding.java
+ org.wikipedia.databinding.ViewSearchAndFilterBinding
+org/wikipedia/databinding/InflateInitialOnboardingPageThreeBinding.java
+ org.wikipedia.databinding.InflateInitialOnboardingPageThreeBinding
+org/wikipedia/search/db/RecentSearchDao_Impl.java
+ org.wikipedia.search.db.RecentSearchDao_Impl
+ org.wikipedia.search.db.RecentSearchDao_Impl$1
+ org.wikipedia.search.db.RecentSearchDao_Impl$2
+ org.wikipedia.search.db.RecentSearchDao_Impl$3
+ org.wikipedia.search.db.RecentSearchDao_Impl$4
+ org.wikipedia.search.db.RecentSearchDao_Impl$5
+ org.wikipedia.search.db.RecentSearchDao_Impl$6
+org/wikipedia/databinding/ActivitySuggestedEditsFeedCardImageTagsBinding.java
+ org.wikipedia.databinding.ActivitySuggestedEditsFeedCardImageTagsBinding
+org/wikipedia/databinding/FragmentSearchRecentBinding.java
+ org.wikipedia.databinding.FragmentSearchRecentBinding
+org/wikipedia/databinding/DatePickerDialogBinding.java
+ org.wikipedia.databinding.DatePickerDialogBinding
+org/wikipedia/databinding/ActivitySuggestedEditsTagsOnboardingBinding.java
+ org.wikipedia.databinding.ActivitySuggestedEditsTagsOnboardingBinding
+org/wikipedia/dataclient/okhttp/OkHttpGlideModule.java
+ org.wikipedia.dataclient.okhttp.OkHttpGlideModule
+org/wikipedia/databinding/ActivityPageBinding.java
+ org.wikipedia.databinding.ActivityPageBinding
+androidx/drawerlayout/widget/FixedDrawerLayout.java
+ androidx.drawerlayout.widget.FixedDrawerLayout
+org/wikipedia/databinding/ItemWikipediaLanguageBinding.java
+ org.wikipedia.databinding.ItemWikipediaLanguageBinding
+org/wikipedia/databinding/ViewCardNewsBinding.java
+ org.wikipedia.databinding.ViewCardNewsBinding
+org/wikipedia/databinding/ViewCardOfflineBinding.java
+ org.wikipedia.databinding.ViewCardOfflineBinding
+org/wikipedia/databinding/ViewWikitextKeyboardButtonBinding.java
+ org.wikipedia.databinding.ViewWikitextKeyboardButtonBinding
+org/wikipedia/databinding/ViewOnThisDayEventBinding.java
+ org.wikipedia.databinding.ViewOnThisDayEventBinding
+org/wikipedia/databinding/ViewOnThisDayFooterBinding.java
+ org.wikipedia.databinding.ViewOnThisDayFooterBinding
+org/wikipedia/databinding/ViewGradientCircleNumberBinding.java
+ org.wikipedia.databinding.ViewGradientCircleNumberBinding
+org/wikipedia/databinding/ActivityLanguagesListBinding.java
+ org.wikipedia.databinding.ActivityLanguagesListBinding
+org/wikipedia/databinding/InflateInitialOnboardingPageZeroBinding.java
+ org.wikipedia.databinding.InflateInitialOnboardingPageZeroBinding
+org/wikipedia/databinding/FragmentReferencesPagerBinding.java
+ org.wikipedia.databinding.FragmentReferencesPagerBinding
+org/wikipedia/databinding/ActivityResetPasswordBinding.java
+ org.wikipedia.databinding.ActivityResetPasswordBinding
+org/wikipedia/databinding/ItemTalkReplyBinding.java
+ org.wikipedia.databinding.ItemTalkReplyBinding
+org/wikipedia/databinding/ActivityGalleryBinding.java
+ org.wikipedia.databinding.ActivityGalleryBinding
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+org/wikipedia/databinding/ViewSuggestedEditsContributionDiffDetailBinding.java
+ org.wikipedia.databinding.ViewSuggestedEditsContributionDiffDetailBinding
+org/wikipedia/databinding/ViewContributionsHeaderBinding.java
+ org.wikipedia.databinding.ViewContributionsHeaderBinding
+org/wikipedia/databinding/FragmentSuggestedEditsImageTagsItemBinding.java
+ org.wikipedia.databinding.FragmentSuggestedEditsImageTagsItemBinding
+org/wikipedia/databinding/FragmentDescriptionEditBinding.java
+ org.wikipedia.databinding.FragmentDescriptionEditBinding
+org/wikipedia/databinding/ItemWatchlistDateBinding.java
+ org.wikipedia.databinding.ItemWatchlistDateBinding
+org/wikipedia/databinding/DialogImagePreviewBinding.java
+ org.wikipedia.databinding.DialogImagePreviewBinding
+org/wikipedia/databinding/ActivityMainBinding.java
+ org.wikipedia.databinding.ActivityMainBinding
+org/wikipedia/databinding/ViewDescriptionEditReviewBinding.java
+ org.wikipedia.databinding.ViewDescriptionEditReviewBinding
+org/wikipedia/databinding/ViewCardFooterBinding.java
+ org.wikipedia.databinding.ViewCardFooterBinding
+org/wikipedia/talk/db/TalkPageSeenDao_Impl.java
+ org.wikipedia.talk.db.TalkPageSeenDao_Impl
+ org.wikipedia.talk.db.TalkPageSeenDao_Impl$1
+ org.wikipedia.talk.db.TalkPageSeenDao_Impl$2
+ org.wikipedia.talk.db.TalkPageSeenDao_Impl$3
+org/wikipedia/databinding/ViewHistoryHeaderWithSearchBinding.java
+ org.wikipedia.databinding.ViewHistoryHeaderWithSearchBinding
+org/wikipedia/offline/db/OfflineObjectDao_Impl.java
+ org.wikipedia.offline.db.OfflineObjectDao_Impl
+ org.wikipedia.offline.db.OfflineObjectDao_Impl$1
+ org.wikipedia.offline.db.OfflineObjectDao_Impl$2
+ org.wikipedia.offline.db.OfflineObjectDao_Impl$3
+ org.wikipedia.offline.db.OfflineObjectDao_Impl$4
+org/wikipedia/databinding/ViewCardFeaturedImageBinding.java
+ org.wikipedia.databinding.ViewCardFeaturedImageBinding
+org/wikipedia/databinding/ViewListCardBinding.java
+ org.wikipedia.databinding.ViewListCardBinding
+org/wikipedia/databinding/ViewHorizontalScrollListItemCardBinding.java
+ org.wikipedia.databinding.ViewHorizontalScrollListItemCardBinding
+org/wikipedia/databinding/ViewCustomLanguageTabBinding.java
+ org.wikipedia.databinding.ViewCustomLanguageTabBinding
+org/wikipedia/databinding/ItemLanglinksListEntryBinding.java
+ org.wikipedia.databinding.ItemLanglinksListEntryBinding
+org/wikipedia/databinding/ActivityEditSectionBinding.java
+ org.wikipedia.databinding.ActivityEditSectionBinding
+org/wikipedia/databinding/ViewReadingListHeaderBinding.java
+ org.wikipedia.databinding.ViewReadingListHeaderBinding
+org/wikipedia/databinding/FragmentMostReadBinding.java
+ org.wikipedia.databinding.FragmentMostReadBinding
+org/wikipedia/databinding/FragmentArticleEditDetailsBinding.java
+ org.wikipedia.databinding.FragmentArticleEditDetailsBinding

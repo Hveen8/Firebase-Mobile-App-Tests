@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.views.ViewAnimations$CancelStateAnimatorListenerAdapter","classAnnotations":[],"interfaces":["android.animation.Animator$AnimatorListener","android.animation.Animator$AnimatorPauseListener"],"superClasses":["android.animation.AnimatorListenerAdapter","java.lang.Object"]}

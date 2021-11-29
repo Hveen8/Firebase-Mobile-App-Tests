@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.util.CenterCropWithFaceTransformation","classAnnotations":[],"interfaces":["com.bumptech.glide.load.Key","com.bumptech.glide.load.Transformation"],"superClasses":["com.bumptech.glide.load.resource.bitmap.BitmapTransformation","java.lang.Object"]}

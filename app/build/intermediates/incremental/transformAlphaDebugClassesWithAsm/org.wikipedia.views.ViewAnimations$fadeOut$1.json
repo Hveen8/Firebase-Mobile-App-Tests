@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.views.ViewAnimations$fadeOut$1","classAnnotations":[],"interfaces":["android.animation.Animator$AnimatorListener","android.animation.Animator$AnimatorPauseListener"],"superClasses":["org.wikipedia.views.ViewAnimations$CancelStateAnimatorListenerAdapter","android.animation.AnimatorListenerAdapter","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.suggestededits.SuggestedEditsTasksFragment$RecyclerAdapter","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.views.DefaultRecyclerAdapter","androidx.recyclerview.widget.RecyclerView$Adapter","java.lang.Object"]}

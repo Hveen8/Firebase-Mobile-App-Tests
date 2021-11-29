@@ -10,7 +10,6 @@ gen-external-apklibs
 # Gradle
 .gradle
 /local.properties
-/build
 
 # IDE files
 *.iml
@@ -27,8 +26,6 @@ out
 scripts/apps
 scripts/backup.ab
 
-# Should never check in apk files
-*.apk
 # Older releases
 /releases
 

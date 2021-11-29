@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.mwapi.MwException","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":["java.io.Serializable"],"superClasses":["java.lang.RuntimeException","java.lang.Exception","java.lang.Throwable","java.lang.Object"]}

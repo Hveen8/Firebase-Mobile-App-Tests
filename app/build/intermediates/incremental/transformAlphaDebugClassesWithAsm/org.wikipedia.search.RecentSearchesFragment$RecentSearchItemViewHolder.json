@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.search.RecentSearchesFragment$RecentSearchItemViewHolder","classAnnotations":[],"interfaces":["android.view.View$OnClickListener","org.wikipedia.views.SwipeableItemTouchHelperCallback$Callback"],"superClasses":["androidx.recyclerview.widget.RecyclerView$ViewHolder","java.lang.Object"]}

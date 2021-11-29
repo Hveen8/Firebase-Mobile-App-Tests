@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.analytics.eventplatform.SamplingConfig","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d жаңы билдирме</item>
+    <item quantity="other">%d жаңы билдирме</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Башкы бетке чабыттоо"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Мурунку экранга өтүү"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Дагы параметрлер"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Бүттү"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Баарын көрүү"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Колдонмо тандоо"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ӨЧҮК"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"КҮЙҮК"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"боштук"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Издөө…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Сурамды өчүрүү"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Изделген сурам"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Издөө"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Сурам тапшыруу"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Айтып издөө"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Төмөнкү менен бөлүшүү"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> аркылуу бөлүшүү"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Жыйыштыруу"</string>
+    <string name="about_activity_title">Тиркеме жөнүндө</string>
+    <string fuzzy="true" name="about_contributors_heading">авторлор</string>
+    <string name="about_description">«Уикипедия» тиркемеси жөнүндө</string>
+    <string fuzzy="true" name="about_libraries_heading">колдонулган китепканалар</string>
+    <string fuzzy="true" name="about_translators_heading">котормочулар</string>
+    <string name="about_translators_translatewiki">Бул тиркеме &lt;a href=\"https://translatewiki.net\">translatewiki.net&lt;/a>\'деги ыктыярчылар тарабынан которулган.</string>
+    <string name="about_wikipedia_url">https://ky.wikipedia.org/wiki/Уикипедия:тууралуу</string>
+    <string fuzzy="true" name="about_wmf">&lt;a href=\"https://wikimediafoundation.org/\">Уикимедиа Фонду&lt;/a>нун өнүмү</string>
+    <string fuzzy="true" name="abusefilter_title_disallow">Сиз бул оңдоону сактай албайсыз. Сураныч, артка кайтыңыз жана аны өзгөртүңүз.</string>
+    <string fuzzy="true" name="abusefilter_title_warn">Бул оңдоо бузуку болушу мүмкүн. Сиз аны сактооңузга ишенесизби?</string>
+    <string name="alpha_update_notification_text">Жүктөп алуу үчүн басыңыз</string>
+    <string name="alpha_update_notification_title">Альфа-нусканын жаңы жаңылануусу жеткиликтүү</string>
+    <string name="app_name_alpha">Уикипедия Альфа</string>
+    <string name="app_name_beta">Уикипедия Бета</string>
+    <string name="app_name_prod">Уикипедия</string>
+    <string name="bottomsheet_action_expand_halfway">Жарымын жайып көрсөтүү</string>
+    <string fuzzy="true" name="button_clear_all_recent_searches">Соңку издөөлөр тизмесин өчүрүү</string>
+    <string name="character_counter_content_description">%2$d ичинен %1$d символ киргизилди</string>
+    <string name="character_counter_overflowed_content_description">Символдордун саны коюлган %2$d чегинен %1$d символго ашып кетти</string>
+    <string name="clear_text_end_icon_content_description">Текстти тазалоо</string>
+    <string name="color_theme_dark">Караңгы</string>
+    <string name="color_theme_light">Ачык</string>
+    <string name="color_theme_select">Жасалга</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Иштетүү"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play кызматтарын иштетмейиңизче <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play кызматтарын иштетүү"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Орнотуу"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Google Play кызматтарысыз <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт. Алар түзмөгүңүздө жок болуп жатат."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play кызматтарын алуу"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play кызматтарынын иштеши"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play кызматтарынын катасы"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> колдонмосунун Google Play кызматтары менен иштөөдө көйгөй чыкты. Кайталап көрүңүз."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> колдонмосу сиздин түзмөгүңүздө колдоого алынбаган Google Play кызматтары болбосо иштебейт."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Жаңыртуу"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play кызматтары жаңыртылмайынча <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play кызматтарын жаңыртуу"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play кызматтарысыз <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт, алар учурда жаңыртылууда."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play кызматтарынын жаңы версиясы талап кылынат. Бир аздан кийин ал өзү эле жаңыртылат."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Телефондо ачык"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Кирүү"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google менен кирүү"</string>
+    <string msgid="3209159573327985035" name="copy">"Көчүрүү"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Шилтеме буферге көчүрүлдү"</string>
+    <string name="create_account_account_created_toast">Эсеп жазуусу түзүлдү!</string>
+    <string name="create_account_activity_title">Катталуу</string>
+    <string name="create_account_button">Катталуу</string>
+    <string name="create_account_email_error">Туура эмес электрондук почта дареги</string>
+    <string name="create_account_email_hint">Электрондук почтаңыздын дареги (милдеттүү эмес)</string>
+    <string name="create_account_generic_error">Эсеп жазуусун түзүү мүмкүн эмес</string>
+    <string name="create_account_next">Кийинки</string>
+    <string name="create_account_password_repeat_hint">Сырсөздү кайталаңыз</string>
+    <string name="create_account_passwords_mismatch_error">Сырсөздөр дал келген жок</string>
+    <string name="create_account_username_hint">Колдонуучу аты</string>
+    <string name="dialog_create_account_checking_progress">Текшерүү</string>
+    <string name="dialog_message_edit_failed">Оңдоо катасы!</string>
+    <string name="dialog_message_edit_failed_cancel">Жокко чыгаруу</string>
+    <string name="dialog_message_edit_failed_retry">Кайра аракет кылуу</string>
+    <string fuzzy="true" name="dialog_title_clear_history">Тарыхты өчүрүү керекпи?</string>
+    <string name="edit_abandon_confirm">Барак өзгөрүлдү. Сиз өзгөртүүлөрдү сактабай чыгууңузга ишенесизби?</string>
+    <string fuzzy="true" name="edit_done">Сактоо</string>
+    <string name="edit_how_page_improved">Сиз бул баракты кантип жакшырттыңыз?</string>
+    <string name="edit_next">Кийинки</string>
+    <string name="edit_preview">Алдын ала көрсөтүү</string>
+    <string fuzzy="true" name="edit_save_action_license_logged_in">Өзгөртүүлөрдү сактоо менен бирге, сиз &lt;a href=\"%1$s\">колдонуу шарттары&lt;/a> менен, ошондой эле &lt;a href=\"%2$s\">CC BY-SA 3.0&lt;/a> лицензиясы боюнча irrevocably release шарттарына макул экендигиңизди билдиресиз.</string>
+    <string fuzzy="true" name="edit_saved_successfully">Оңдоо сакталды!</string>
+    <string name="edit_section_captcha_hint">Жогоруда көрсөтүлгөн сөздөрдү кайталаңыз</string>
+    <string name="edit_section_captcha_message">Автоматташтырылган спамдан коргонууга жардам берүү үчүн, кичи пейилдикке ылдыйда көрсөтүлгөн сөздөрдү териңиз</string>
+    <string name="edit_section_captcha_reload">CAPTCHA\'ны жаңылоо үчүн, аны басып коюңуз</string>
+    <string name="edit_summary_tag_grammar">Жазуу эрежелери түзөтүлдү</string>
+    <string name="edit_summary_tag_links">Шилтемелер кошулду</string>
+    <string name="edit_summary_tag_other">Башка</string>
+    <string name="edit_summary_tag_other_hint">Бул баракты жакшыртууңуздун башка ыкмалары</string>
+    <string name="edit_summary_tag_typo">Жазуу катасы түзөтүлдү</string>
+    <string name="editing_error_spamblacklist">Бөгөттөлгөн домендерге (%s) шилтемелер табылды. Сураныч, аларды өчүрүп, кайра аракет кылып көрүңүз.</string>
+    <string name="error_browser_not_found">Веб-баракты ачууга мүмкүнчүлүк болбоду (браузер тиркемеси табылган жок).</string>
+    <string name="error_can_not_process_link">Бул шилтемени көрсөтүүгө мүмкүнчүлүк болбоду.</string>
+    <string name="error_icon_content_description">Ката</string>
+    <string fuzzy="true" name="error_network_error">Тармакка туташуу туруктуу эмес.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Өркүндөтүлгөн"</string>
+    <string name="exposed_dropdown_menu_content_description">Түрүлмө менюну көрсөтүү</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Шилтемени көчүрүү"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Серепчиден ачуу"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Шилтемени бөлүшүү"</string>
+    <string name="fcm_fallback_notification_channel_label">Аралаш</string>
+    <string name="find_next">Ушуну табуу</string>
+    <string name="find_previous">Мурункуну табуу</string>
+    <string fuzzy="true" name="history_empty_message">Кыязы, сиз алардын баарын өчүргөн окшойсуз. Кийинки жолу баракка киргенде, бул жактан кайрылсаңыз болот</string>
+    <string fuzzy="true" name="history_empty_title">Жакында каралган барактар жок!</string>
+    <string name="icon_content_description">Диалог сүрөтчөсү</string>
+    <string name="item_view_role_description">Өтмөк</string>
+    <string name="langlinks_activity_title">Башка тилдер</string>
+    <string name="langlinks_empty">Бул барак башка тилдерде жеткиликтүү эмес.</string>
+    <string name="langlinks_filter_hint">Издөө</string>
+    <string fuzzy="true" name="langlinks_no_match">Сиздин сурооңузга төп тил табылбады.</string>
+    <string name="last_updated_text">Акыркы жаңылоо: %s</string>
+    <string fuzzy="true" name="login_activity_title">Уикипедияга кирүү</string>
+    <string name="login_in_progress_dialog_message">Системге кирип жатасыз…</string>
+    <string name="login_password_hint">Сырсөз</string>
+    <string fuzzy="true" name="login_success_toast">Сиз ийгиликтүү кирдиңиз!</string>
+    <string name="login_username_hint">Колдонуучу аты</string>
+    <string name="material_clock_toggle_content_description">Тандоо: AM же PM</string>
+    <string name="material_hour_selection">Саат тандоо</string>
+    <string name="material_hour_suffix">Саат %1$s</string>
+    <string name="material_minute_selection">Мүнөттөрдү тандаңыз</string>
+    <string name="material_minute_suffix">%1$s мүнөт</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Убакытты дубал саатынын режиминде киргизиңиз.</string>
+    <string name="material_timepicker_hour">Саат</string>
+    <string name="material_timepicker_minute">Мүнөт</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Убакыт тандоо</string>
+    <string name="material_timepicker_text_input_mode_description">Убакытты текст киргизүү режиминде киргизиңиз.</string>
+    <string name="menu_clear_all_history">Тарыхты тазалоо</string>
+    <string name="menu_login">Кирүү</string>
+    <string fuzzy="true" name="menu_page_find_in_page">Бул барактан табуу</string>
+    <string name="menu_page_font_and_theme">Жазуу түрүн жана жасалганы өзгөртүү</string>
+    <string fuzzy="true" name="menu_page_other_languages">Башка тилдерде окуу</string>
+    <string fuzzy="true" name="menu_page_share">Бөлүшүү</string>
+    <string fuzzy="true" name="menu_save_changes">Өзгөртүүлөрдү сактоо</string>
+    <string name="menu_show_toc">Мазмуну</string>
+    <string name="mtrl_badge_numberless_content_description">Жаңы билдирме</string>
+    <string name="mtrl_chip_close_icon_content_description">Мазмунду алып салуу (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d ашуун жаңы билдирме</string>
+    <string name="mtrl_picker_a11y_next_month">Кийинки айга өзгөртүү</string>
+    <string name="mtrl_picker_a11y_prev_month">Мурунку айга өзгөртүү</string>
+    <string name="mtrl_picker_announce_current_selection">Учурдагы тандоо: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Күн тандоо</string>
+    <string name="mtrl_picker_date_header_unselected">Тандалган күн</string>
+    <string name="mtrl_picker_day_of_week_column_header">Күндөр тилкеси: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Жараксыз формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Мисалы: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s формтын колднуңуз</string>
+    <string name="mtrl_picker_invalid_range">Жараксыз диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s-жылга өтүү</string>
+    <string name="mtrl_picker_out_of_range">Диапазондон тышкары: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Баштоо күнү – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Аяктоо күнү</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Даталар диапазонун тандоо</string>
+    <string name="mtrl_picker_range_header_unselected">Баштоо күнү – Аяктоо күнү</string>
+    <string name="mtrl_picker_save">Сактоо</string>
+    <string name="mtrl_picker_text_input_date_hint">Күн</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Аяктоо күнү</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Баштоо күнү</string>
+    <string name="mtrl_picker_text_input_day_abbr">к</string>
+    <string name="mtrl_picker_text_input_month_abbr">а</string>
+    <string name="mtrl_picker_text_input_year_abbr">ж</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Жылнаамага иш-чара киргизүү режимине которулуу</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Күн тандоо үчүн таптап коюңуз</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Текст киргизүү режимине которулуу</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Жыл тандоо үчүн таптап коюңуз</string>
+    <string name="nav_item_back">Артка</string>
+    <string name="nav_item_forward">Алдыга</string>
+    <string fuzzy="true" name="nav_item_login">Кирүү</string>
+    <string name="nav_item_search">Издөө</string>
+    <string msgid="478774118347071097" name="not_set">"Коюлган эмес"</string>
+    <string name="page_error_retry">Кайра аракет кылуу</string>
+    <string name="page_protected_autoconfirmed">Бул барак жарым-жартылай корголгон.</string>
+    <string fuzzy="true" name="page_protected_can_not_edit">Бул баракты оңдоого сиздин укугуңуз жок.</string>
+    <string name="page_protected_can_not_edit_title">Бул барак корголгон</string>
+    <string name="page_protected_other">Бул барак мындай деңгээлдерде корголгон: %s</string>
+    <string name="page_protected_sysop">Бул барак толугу менен корголгон.</string>
+    <string name="page_similar_titles">Окшош барактар</string>
+    <string name="page_tabs_back">Артка</string>
+    <string name="password_toggle_content_description">Сырсөздү көрсөтүү</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" алмашуу буферине көчүрүлдү."</string>
+    <string name="preference_summary_eventlogging_opt_in">Уикимедиага сиз бул тиркемени кантип колдонуп жаткандыгыңыз тууралуу маалыматтарды чогултууга уруксат бериңиз. Бул, аны жакшыртууга мүмкүндүк берет.</string>
+    <string name="preference_title_eventlogging_opt_in">Колдонуу тууралуу маалыматтарды жөнөтүү</string>
+    <string fuzzy="true" name="preference_title_language">Уикипедия тили</string>
+    <string name="preference_title_logout">Чыгуу</string>
+    <string name="preferences_general_heading">Жалпы</string>
+    <string name="privacy_policy_description">Купуялуулук саясаты</string>
+    <string fuzzy="true" name="privacy_policy_url">https://meta.wikimedia.org/wiki/Купуялуулук_саясаты</string>
+    <string name="search_did_you_mean">Издегениңиз «%s» болуп жүрбөсүн?</string>
+    <string name="search_hint">Уикипедиядан издөө</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Издөө"</string>
+    <string name="search_no_results_found">Эч нерсе табылган жок</string>
+    <string name="search_recent_header">Соңку издөөлөр:</string>
+    <string name="send_feedback">Тиркемеге өз бааңызды жөнөтүңүз</string>
+    <string fuzzy="true" name="settings_activity_title">Ырастоолор</string>
+    <string name="share_via">аркылуу бөлүшүү</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="terms_of_use_description">Колдонуу шарттары</string>
+    <string fuzzy="true" name="terms_of_use_url">https://foundation.m.wikimedia.org/wiki/Terms_of_Use</string>
+    <string name="title_captcha">CAPTCHA\'ны териңиз</string>
+    <string name="toast_logout_complete">Сиз системден чыктыңыз</string>
+    <string name="user_anon_blocked_from_editing">Сиздин IP-дарегиңиз оңдоодон бөгөттөлгөн.</string>
+    <string name="user_blocked_from_editing_title">Бөгөттөлгөн</string>
+    <string name="user_logged_in_blocked_from_editing">Сиздин эсеп жазууңуз бул уики-долбоордо оңдоодон бөгөттөлгөн.</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ӨЧҮК"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"КҮЙҮК"</string>
+    <string name="wikimedia">Викимедиа</string>
+    <string name="wp_stylized">&lt;big>У&lt;/big>ИКИПЕДИ&lt;big>Я&lt;/big></string>
+</resources>

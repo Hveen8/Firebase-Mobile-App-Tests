@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.analytics.eventplatform.NotificationInteractionEvent","classAnnotations":["kotlinx.serialization.Serializable","kotlinx.serialization.SerialName"],"interfaces":[],"superClasses":["org.wikipedia.analytics.eventplatform.Event","java.lang.Object"]}

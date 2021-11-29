@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.settings.SettingsPreferenceLoader$SyncReadingListsListener","classAnnotations":[],"interfaces":["androidx.preference.Preference$OnPreferenceChangeListener"],"superClasses":["java.lang.Object"]}

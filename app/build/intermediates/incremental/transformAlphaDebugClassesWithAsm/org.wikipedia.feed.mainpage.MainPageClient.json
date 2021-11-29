@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.mainpage.MainPageClient","classAnnotations":[],"interfaces":["org.wikipedia.feed.dataclient.FeedClient"],"superClasses":["java.lang.Object"]}

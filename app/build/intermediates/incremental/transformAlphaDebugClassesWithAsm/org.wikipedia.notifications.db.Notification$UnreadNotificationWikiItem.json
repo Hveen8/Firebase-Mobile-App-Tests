@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.notifications.db.Notification$UnreadNotificationWikiItem","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

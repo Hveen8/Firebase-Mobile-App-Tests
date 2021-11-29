@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.PageContainerLongPressHandler","classAnnotations":[],"interfaces":["org.wikipedia.LongPressHandler$WebViewMenuCallback","org.wikipedia.readinglist.LongPressMenu$Callback"],"superClasses":["java.lang.Object"]}

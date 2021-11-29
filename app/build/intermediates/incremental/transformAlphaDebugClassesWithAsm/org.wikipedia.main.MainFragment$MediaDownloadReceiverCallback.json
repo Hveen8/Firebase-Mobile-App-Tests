@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.main.MainFragment$MediaDownloadReceiverCallback","classAnnotations":[],"interfaces":["org.wikipedia.gallery.MediaDownloadReceiver$Callback"],"superClasses":["java.lang.Object"]}

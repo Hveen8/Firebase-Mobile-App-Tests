@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.action.PageActionTab","classAnnotations":[],"interfaces":["java.io.Serializable","java.lang.Comparable","org.wikipedia.model.EnumCode"],"superClasses":["java.lang.Enum","java.lang.Object"]}

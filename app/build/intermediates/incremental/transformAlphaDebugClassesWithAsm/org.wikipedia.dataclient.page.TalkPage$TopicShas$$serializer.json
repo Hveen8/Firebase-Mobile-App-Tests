@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.page.TalkPage$TopicShas$$serializer","classAnnotations":["kotlin.Deprecated"],"interfaces":["kotlinx.serialization.DeserializationStrategy","kotlinx.serialization.KSerializer","kotlinx.serialization.SerializationStrategy","kotlinx.serialization.internal.GeneratedSerializer"],"superClasses":["java.lang.Object"]}

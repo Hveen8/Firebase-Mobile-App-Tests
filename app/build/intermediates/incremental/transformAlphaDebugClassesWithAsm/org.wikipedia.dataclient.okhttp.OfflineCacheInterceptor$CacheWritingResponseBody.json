@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.okhttp.OfflineCacheInterceptor$CacheWritingResponseBody","classAnnotations":[],"interfaces":["java.io.Closeable","java.lang.AutoCloseable"],"superClasses":["okhttp3.ResponseBody","java.lang.Object"]}

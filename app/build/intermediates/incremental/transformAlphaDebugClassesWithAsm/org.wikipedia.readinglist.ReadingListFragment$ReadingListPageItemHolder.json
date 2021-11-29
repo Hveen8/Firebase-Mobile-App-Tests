@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.readinglist.ReadingListFragment$ReadingListPageItemHolder","classAnnotations":[],"interfaces":["org.wikipedia.views.SwipeableItemTouchHelperCallback$Callback"],"superClasses":["org.wikipedia.views.DefaultViewHolder","androidx.recyclerview.widget.RecyclerView$ViewHolder","java.lang.Object"]}

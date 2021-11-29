@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.database.AppDatabase_Impl","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.database.AppDatabase","androidx.room.RoomDatabase","java.lang.Object"]}

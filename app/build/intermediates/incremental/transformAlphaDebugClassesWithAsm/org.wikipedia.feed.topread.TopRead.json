@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.topread.TopRead","classAnnotations":["kotlinx.serialization.Serializable","kotlinx.parcelize.Parcelize"],"interfaces":["android.os.Parcelable"],"superClasses":["java.lang.Object"]}

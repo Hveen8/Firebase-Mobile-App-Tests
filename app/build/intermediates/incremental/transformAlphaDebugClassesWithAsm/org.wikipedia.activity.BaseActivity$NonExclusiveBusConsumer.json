@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.activity.BaseActivity$NonExclusiveBusConsumer","classAnnotations":[],"interfaces":["io.reactivex.rxjava3.functions.Consumer"],"superClasses":["java.lang.Object"]}

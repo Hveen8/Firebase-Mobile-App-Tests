@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.settings.EditTextAutoSummarizePreference","classAnnotations":[],"interfaces":["java.lang.Comparable"],"superClasses":["androidx.preference.EditTextPreference","androidx.preference.DialogPreference","androidx.preference.Preference","java.lang.Object"]}

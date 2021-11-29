@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d jaunu paziņojumu</item>
+    <item quantity="one">%d jauns paziņojums</item>
+    <item quantity="other">%d jauni paziņojumi</item>
+  </plurals>
+    <plurals fuzzy="true" name="view_continue_reading_card_subtitle">
+    <item quantity="one">Vakardien</item>
+    <item quantity="other">Pirms %d dienām</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pārvietoties uz augšu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Citas opcijas"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZSLĒGT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IESLĒGT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Meklēt ar balsi"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="about_activity_title">Par</string>
+    <string name="about_app_license_heading">Licence</string>
+    <string name="about_article_section">Par šo rakstu</string>
+    <string name="about_description">Par Vikipēdijas lietotni</string>
+    <string name="about_libraries_heading">Izmantotās bibliotēkas</string>
+    <string name="about_translators_heading">Tulkotāji</string>
+    <string name="about_translators_translatewiki">Šo lietotni iztulkoja brīvprātīgie tulkotāji no &lt;a href=\"https://translatewiki.net\">translatewiki.net&lt;/a>.</string>
+    <string name="about_wikipedia_url">https://lv.wikipedia.org/wiki/Vikipēdija:Par</string>
+    <string name="account_creation_password_hint">Parole</string>
+    <string name="account_editing_blocked_dialog_cancel_button_text">Atcelt</string>
+    <string name="address_copied">Adrese iekopēta starpliktuvē.</string>
+    <string name="all_tab_items_closed">Visas cilnes aizvērtas.</string>
+    <string name="app_name_alpha">Vikipēdija Alpha</string>
+    <string name="app_name_beta">Vikipēdija Beta</string>
+    <string name="app_name_prod">Vikipēdija</string>
+    <string name="app_settings">Lietotnes iestatījumi</string>
+    <string name="app_shortcuts_continue_reading">Turpināt lasīt</string>
+    <string name="app_shortcuts_random">Nejaušs</string>
+    <string name="app_shortcuts_search">Meklēt</string>
+    <string name="article_header_edit_description">Labot raksta aprakstu</string>
+    <string name="article_header_edit_hint">Labot...</string>
+    <string name="article_header_edit_lead_section">Labot ievadu</string>
+    <string name="article_load_error_retry">Mēģināt vēlreiz</string>
+    <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
+    <string name="button_add_to_reading_list">Pievienot lasīšanas sarakstam</string>
+    <string name="button_close_tab">Aizvērt cilni</string>
+    <string name="button_continue_to_article">Lasīt rakstu</string>
+    <string name="button_continue_to_disambiguation">Skatīt līdzīgas lapas</string>
+    <string name="button_get_directions">Saņemt norādes</string>
+    <string name="captcha_image">Captcha attēls</string>
+    <string name="card_offline_error_retry">Mēģināt vēlreiz</string>
+    <string name="character_counter_content_description">Ievadītās rakstzīmes: %1$d no %2$d</string>
+    <string name="character_counter_overflowed_content_description">Pārsniegts rakstzīmju skaita ierobežojums (%1$d no %2$d)</string>
+    <string name="clear_recent_searches_confirm_no">Nē</string>
+    <string name="clear_recent_searches_confirm_yes">Jā</string>
+    <string name="clear_text_end_icon_content_description">Notīrīt tekstu</string>
+    <string name="close_all_tabs_confirm_no">Nē</string>
+    <string name="close_all_tabs_confirm_yes">Jā</string>
+    <string name="color_theme_black">Melns</string>
+    <string name="color_theme_dark">Tumšs</string>
+    <string name="color_theme_light">Gaišs</string>
+    <string name="color_theme_select">Izskats</string>
+    <string name="color_theme_sepia">Sēpija</string>
+    <string name="color_theme_test_title">Teksta paraugs</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Iespējot"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir jāiespējo Google Play pakalpojumi."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play pakalpojumu iespējošana"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalēt"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ierīcē ir jāinstalē Google Play pakalpojumi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play pakalpojumu iegūšana"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play pakalpojumu pieejamība"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play pakalpojumu kļūda"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Lietotnē <ns1:g id="APP_NAME">%1$s</ns1:g> ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atjaunināt"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, jums ir jāatjaunina Google Play pakalpojumi."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play pakalpojumu atjaunināšana"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atvērt tālrunī"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Pierakstīties"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Pierakstīties ar Google kontu"</string>
+    <string msgid="3209159573327985035" name="copy">"Kopēt"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Saite ir kopēta starpliktuvē."</string>
+    <string name="crash_report_activity_title">Lietotnes kļūda</string>
+    <string name="crash_report_quit">Iziet</string>
+    <string name="crash_report_relaunch">Sākt no jauna</string>
+    <string name="create_account_account_created_toast">Konts izveidots!</string>
+    <string name="create_account_activity_title">Izveidot kontu</string>
+    <string name="create_account_button">Izveidot kontu</string>
+    <string name="create_account_email_error">Nederīga e-pasta adrese</string>
+    <string name="create_account_email_hint">E-pasts (nav obligāti)</string>
+    <string name="create_account_generic_error">Neizdevās izveidot kontu</string>
+    <string name="create_account_ip_block_details">Papildinformācija</string>
+    <string name="create_account_next">Tālāk</string>
+    <string fuzzy="true" name="create_account_password_error">Parole ir nederīga</string>
+    <string name="create_account_password_repeat_hint">Atkārtojiet paroli</string>
+    <string name="create_account_passwords_mismatch_error">Paroles nesakrīt</string>
+    <string name="create_account_username_error">Nederīgas rakstzīmes lietotājvārdā</string>
+    <string name="create_account_username_hint">Lietotājvārds</string>
+    <string name="custom_date_picker_dialog_cancel_button_text">Atcelt</string>
+    <string name="custom_date_picker_dialog_ok_button_text">Labi</string>
+    <string name="customize_lang_selection_dialog_cancel_button_text">Atcelt</string>
+    <string name="customize_lang_selection_dialog_ok_button_text">Labi</string>
+    <string name="default_reading_list_name">Saglabāts</string>
+    <string name="delete_selected_items">Dzēst izvēlētos vienumus</string>
+    <string fuzzy="true" name="description_edit_add_description">Pievieno īsu aprakstu!</string>
+    <string name="description_edit_article_description_label">Raksts</string>
+    <string name="description_edit_cancel_hint">Atcelt</string>
+    <string name="description_edit_edit_description">Labot raksta aprakstu</string>
+    <string name="description_edit_help_about_wikidata">Par Vikidatiem</string>
+    <string name="description_edit_login_cancel_button_text">Atcelt</string>
+    <string name="description_edit_read">Lasīt</string>
+    <string name="description_edit_save">Publicēt</string>
+    <string name="description_edit_success_did_you_know">Vai tu zināji?</string>
+    <string name="description_edit_success_done">Gatavs</string>
+    <string name="description_edit_success_encouragement">Tu tikko padarīji Vikipēdiju labāku visiem</string>
+    <string fuzzy="true" name="description_edit_success_saved">Apraksts publicēts!</string>
+    <string fuzzy="true" name="description_edit_text_hint">Uzraksti aprakstu!</string>
+    <string fuzzy="true" name="description_edit_translate_description">Tulkot aprakstu</string>
+    <string name="description_edit_tutorial_button_label_start_editing">Sākt labošanu</string>
+    <string name="description_edit_voice_input_description">Balss ievade</string>
+    <string name="dialog_close_description">Aizvērt</string>
+    <string name="dialog_create_account_checking_progress">Pārbauda</string>
+    <string fuzzy="true" name="dialog_message_clear_history">Vai tiešām vēlaties notīrīt visu vēsturi?</string>
+    <string name="dialog_message_clear_history_no">Nē</string>
+    <string name="dialog_message_clear_history_yes">Jā</string>
+    <string name="dialog_message_edit_failed">Neizdevās labot!</string>
+    <string name="dialog_message_edit_failed_cancel">Atcelt</string>
+    <string name="dialog_message_edit_failed_retry">Mēģināt vēlreiz</string>
+    <string name="dialog_message_leaving_edit_leave">Pamest</string>
+    <string name="dialog_message_leaving_edit_stay">Palikt</string>
+    <string name="dialog_of_remove_chinese_variants_from_app_lang_edit">Labot valodas</string>
+    <string name="dialog_of_remove_chinese_variants_from_app_lang_no">Nē, paldies</string>
+    <string name="dialog_title_clear_history">Dzēst pārlūkošanas vēsturi</string>
+    <string name="dialog_title_download_only_over_wifi_allow">Atļaut</string>
+    <string name="edit_abandon_confirm_no">Nē</string>
+    <string name="edit_abandon_confirm_yes">Jā</string>
+    <string name="edit_conflict_title">Labošanas konflikts</string>
+    <string name="edit_done">Publicēt</string>
+    <string name="edit_history_link_text">Skatīt labojumu vēsturi</string>
+    <string name="edit_how_page_improved">Kā tu uzlaboji lapu?</string>
+    <string name="edit_next">Tālāk</string>
+    <string name="edit_preview">Pirmskats</string>
+    <string name="edit_redo">Atcelt atsaukšanu</string>
+    <string name="edit_saved_successfully">Labojums publicēts!</string>
+    <string name="edit_section_captcha_reload">Pieskarieties CAPTCHA, lai pārlādētu</string>
+    <string name="edit_section_find_in_page">Atrast lapā</string>
+    <string name="edit_summary_tag_grammar">Labota gramatikas kļūda</string>
+    <string name="edit_summary_tag_links">Pievienotas saites</string>
+    <string name="edit_summary_tag_other">Cits</string>
+    <string name="edit_summary_tag_other_hint">Citi veidi, kā tu uzlaboji lapu</string>
+    <string name="edit_summary_tag_typo">Labota pareizrakstības kļūda</string>
+    <string name="edit_undo">Atsaukt</string>
+    <string name="edit_zoom_in">Tuvināt</string>
+    <string name="edit_zoom_out">Attālināt</string>
+    <string name="email_recommendation_dialog_create_with_email_action">Pievienot e-pasta adresi</string>
+    <string name="email_recommendation_dialog_create_without_email_action">Turpināt bez e-pasta</string>
+    <string name="email_recommendation_dialog_title">Izveidot kontu bez e-pasta adreses?</string>
+    <string name="empty_tab_title">Jauna cilne</string>
+    <string name="enable_location_service">Iespējot</string>
+    <string name="err_cannot_save_file">Nevar saglabāt failu</string>
+    <string name="error_back">Atpakaļ</string>
+    <string name="error_icon_content_description">Kļūda</string>
+    <string name="error_message_generic">Notika kļūda</string>
+    <string name="error_network_error">Nevar izveidot savienojumu ar Internetu.</string>
+    <string name="error_next">Tālāk</string>
+    <string name="error_page_does_not_exist">Šī lapa nepastāv</string>
+    <string name="error_unknown">Nezināma kļūda.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Papildu iestatījumi"</string>
+    <string name="exposed_dropdown_menu_content_description">Rādīt nolaižamo izvēlni</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopēt saiti"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Atvērt pārlūkprogrammā"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Kopīgot saiti"</string>
+    <string name="fcm_fallback_notification_channel_label">Dažādi</string>
+    <string name="feed_card_add_to_default_list">Saglabāt</string>
+    <string name="feed_card_add_to_list">Pievienot lasīšanas sarakstam</string>
+    <string name="feed_configure_menu_deselect_all">Paslēpt visus</string>
+    <string name="feed_configure_menu_select_all">Rādīt visus</string>
+    <string name="feed_configure_onboarding_action">Pielāgot</string>
+    <string name="feed_lang_selection_dialog_cancel_button_text">Atcelt</string>
+    <string name="feed_lang_selection_dialog_ok_button_text">Labi</string>
+    <string name="find_next">Atrast nākamo</string>
+    <string name="find_previous">Atrast iepriekšējo</string>
+    <string name="format_error_server_message">Ziņojums: \"%s\"</string>
+    <string name="format_reading_list_statistical_summary_plural">%1$d raksti, %2$.2f MB</string>
+    <string name="format_reading_list_statistical_summary_singular">1 raksts, %1$.2f MB</string>
+    <string name="gallery_menu_share">Dalīties</string>
+    <string name="gallery_save_progress">Lejuplādē failu...</string>
+    <string fuzzy="true" name="gallery_save_success">Fails saglabāts veiksmīgi.</string>
+    <string name="gallery_uploader_unknown">Augšupielādētājs nav zināms</string>
+    <string name="history_item_delete_undo">Atsaukt</string>
+    <string name="history_list_title">Vēsture</string>
+    <string name="icon_content_description">Dialoglodziņa ikona</string>
+    <string name="image_content_description">Attēls: %s</string>
+    <string name="item_view_role_description">Cilne</string>
+    <string name="langlinks_activity_title">Citas valodas</string>
+    <string name="langlinks_empty">Šī lapa nav pieejama citās valodās</string>
+    <string name="langlinks_filter_hint">Meklēt</string>
+    <string name="langlinks_no_match">Valodas nav atrastas</string>
+    <string name="langlinks_your_wikipedia_languages">Tavas Vikipēdijas valodas</string>
+    <string name="language_count_link_text">Pieejams %d citās valodās</string>
+    <string name="languages_list_activity_title">Pievienot valodu</string>
+    <string name="languages_list_all_text">Visas valodas</string>
+    <string name="last_updated_text">Pēdējo reizi atjaunināts %s</string>
+    <string name="license_title">Licence %s</string>
+    <string name="location_permissions_enable_action">Ieslēgt</string>
+    <string name="logged_out_in_background_cancel">Atcelt</string>
+    <string name="login_2fa_hint">Divpakāpju autentifikācijas kods</string>
+    <string name="login_forgot_password">Aizmirsi savu paroli?</string>
+    <string name="login_join_wikipedia">Pievienojies Vikipēdijai</string>
+    <string name="login_password_hint">Parole</string>
+    <string fuzzy="true" name="login_success_toast">Pieslēgšanās veiksmīga!</string>
+    <string name="login_username_hint">Lietotājvārds</string>
+    <string name="logout_dialog_cancel_button_text">Atcelt</string>
+    <string name="logout_prompt">Šī darbība jūs izlogos no visām ierīcēm kurās jūs šobrīd esat ielogojies. Vai vēlaties turpināt?</string>
+    <string name="main_drawer_help">Palīdzība</string>
+    <string name="map_view_link_text">Skatīt uz kartes</string>
+    <string name="material_clock_toggle_content_description">Atlasiet “AM” (priekšpusdienā) vai “PM” (pēcpusdienā).</string>
+    <string name="material_hour_selection">Atlasiet stundu</string>
+    <string name="material_hour_suffix">plkst. %1$s</string>
+    <string name="material_minute_selection">Atlasiet minūtes.</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Lai ievadītu laiku, ieslēdziet pulksteņa režīmu.</string>
+    <string name="material_timepicker_hour">Stunda</string>
+    <string name="material_timepicker_minute">Minūte</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Laika atlasīšana</string>
+    <string name="material_timepicker_text_input_mode_description">Lai ievadītu laiku, ieslēdziet teksta ievades režīmu.</string>
+    <string name="menu_clear_all_history">Notīrīt vēsturi</string>
+    <string name="menu_close_all_tabs">Aizvērt visas cilnes</string>
+    <string fuzzy="true" name="menu_feed_card_dismiss">Paslēpt šo ierosinājumu</string>
+    <string fuzzy="true" name="menu_feed_card_dismissed">Ieteikums slēpts.</string>
+    <string name="menu_feed_overflow_label">Vairāk iespēju</string>
+    <string name="menu_gallery_visit_image_page">Doties uz faila lapu</string>
+    <string name="menu_login">Pieslēgties</string>
+    <string name="menu_long_press_copy_page">Kopēt saites adresi</string>
+    <string name="menu_long_press_open_in_new_tab">Atvērt jaunā cilnē</string>
+    <string name="menu_long_press_open_page">Atvērt</string>
+    <string name="menu_new_tab">Jauna cilne</string>
+    <string name="menu_page_add_to_default_list">Saglabāt</string>
+    <string name="menu_page_add_to_list">Pievienot lasīšanas sarakstam</string>
+    <string fuzzy="true" name="menu_page_find_in_page">Atrast lapā</string>
+    <string name="menu_page_font_and_theme">Fonts un apdare</string>
+    <string name="menu_page_new_tab">Jauna cilne</string>
+    <string name="menu_page_open_a_new_tab">Atvērt jaunā cilnē</string>
+    <string name="menu_page_other_languages">Mainīt valodu</string>
+    <string name="menu_page_reading_lists">Lasīšanas saraksti</string>
+    <string name="menu_page_share">Dalīties ar saiti</string>
+    <string name="menu_page_show_tabs">Rādīt cilnes</string>
+    <string name="menu_save_changes">Publicēt izmaiņas</string>
+    <string name="menu_show_toc">Satura rādītājs</string>
+    <string name="menu_text_select_edit_here">Labot šeit</string>
+    <string name="more_language_options">vairāk</string>
+    <string name="mtrl_badge_numberless_content_description">Jauns paziņojums</string>
+    <string name="mtrl_chip_close_icon_content_description">Noņemt: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Vairāk nekā %1$d jauni paziņojumi</string>
+    <string name="mtrl_picker_a11y_next_month">Pāriet uz nākamo mēnesi</string>
+    <string name="mtrl_picker_a11y_prev_month">Pāriet uz iepriekšējo mēnesi</string>
+    <string name="mtrl_picker_announce_current_selection">Pašreizējā atlase: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Atlasiet datumu</string>
+    <string name="mtrl_picker_date_header_unselected">Atlasītais datums</string>
+    <string name="mtrl_picker_day_of_week_column_header">Dienu sleja: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nederīgs formāts.</string>
+    <string name="mtrl_picker_invalid_format_example">Piemērs: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Izmantojiet: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nederīgs diapazons.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pāriet uz šo gadu: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Ārpus diapazona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Sākuma datums–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–beigu datums</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Atlasiet diapazonu</string>
+    <string name="mtrl_picker_range_header_unselected">Sākuma datums–beigu datums</string>
+    <string name="mtrl_picker_save">Saglabāt</string>
+    <string name="mtrl_picker_text_input_date_hint">Datums</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Beigu datums</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Sākuma datums</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Pārslēgties uz kalendāra ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pieskarties, lai pārslēgtos uz dienas atlasīšanu</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Pārslēgties uz teksta ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pieskarties, lai pārslēgtos uz gada atlasīšanu</string>
+    <string name="nav_item_back">Atpakaļ</string>
+    <string fuzzy="true" name="nav_item_donate">Atbalstīt Vikipēdiju</string>
+    <string name="nav_item_forward">Uz priekšu</string>
+    <string name="nav_item_login">Pieslēgties Vikipēdijai</string>
+    <string name="nav_item_more">Vairāk</string>
+    <string name="nav_item_search">Meklēšana</string>
+    <string fuzzy="true" name="nav_item_suggested_edits">Ieteiktie labojumi</string>
+    <string msgid="478774118347071097" name="not_set">"Nav iestatīts"</string>
+    <string name="notification_archive_undo">Atsaukt</string>
+    <string name="notification_channel_description">Lejupielādes progress</string>
+    <string name="notification_reverted_title">Atcelts labojums</string>
+    <string name="notification_syncing_cancel_button">Atcelt</string>
+    <string name="notification_syncing_resume_button">Turpināt</string>
+    <string name="notifications_activity_title">Paziņojumi</string>
+    <string name="notifications_channel_group_wikipedia_notifications_title">Vikipēdija</string>
+    <string name="notifications_poll_enable_negative">Ne tagad</string>
+    <string name="notifications_poll_enable_positive">Iespējot</string>
+    <string name="notifications_poll_enable_title">Iespējot paziņojumus</string>
+    <string name="offline_load_error_retry">Mēģināt vēlreiz</string>
+    <string name="on_this_day_card_title">Šajā dienā</string>
+    <string name="on_this_day_page_share">Dalīties</string>
+    <string name="onboarding_analytics_title">Sūtīt anonīmus datus</string>
+    <string name="onboarding_continue">Turpināt</string>
+    <string name="onboarding_got_it">Sapratu</string>
+    <string name="onboarding_maybe_later">Varbūt vēlāk</string>
+    <string name="onboarding_multilingual_add_language_text">Pievienot vai labot valodas</string>
+    <string name="onboarding_skip">Izlaist</string>
+    <string name="other_languages_indication_text">Lasīt citā valodā</string>
+    <string name="page_error_back_to_main">Atpakaļ</string>
+    <string name="page_error_retry">Mēģināt vēlreiz</string>
+    <string name="page_protected_can_not_edit_title">Šī lapa ir aizsargāta</string>
+    <string name="page_similar_titles">Līdzīgas lapas</string>
+    <string name="page_tabs_back">Atpakaļ</string>
+    <string name="page_view_in_browser">Skatīt lapu pārlūkā</string>
+    <string name="password_toggle_content_description">Rādīt paroli</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Preference “<ns1:g id="SUMMARY">%1$s</ns1:g>” ir kopēta starpliktuvē."</string>
+    <string name="preference_title_collapse_tables">Sakļaut tabulas</string>
+    <string name="preference_title_eventlogging_opt_in">Sūtīt lietojuma ziņojumus</string>
+    <string name="preference_title_language">Vikipēdijas valodas</string>
+    <string name="preference_title_logout">Iziet</string>
+    <string name="preference_title_notification_thanks">Paldies</string>
+    <string name="preference_title_show_images">Rādīt attēlus</string>
+    <string name="preference_title_show_link_previews">Rādīt saišu priekšskatījumus</string>
+    <string name="preferences_account_heading">Konts</string>
+    <string name="preferences_general_heading">Vispārīgi</string>
+    <string name="preferences_heading_data_usage">Datu lietojums</string>
+    <string name="preferences_heading_syncing">Sinhronizē</string>
+    <string name="preferences_privacy_settings_heading">Konfidencialitāte</string>
+    <string name="privacy_policy_description">Privātuma politika</string>
+    <string name="read_more_section">Lasīt vairāk</string>
+    <string name="reading_list_action_menu_add_to_another_list">Pievienot citam sarakstam</string>
+    <string name="reading_list_added_view_button">Skatīt sarakstu</string>
+    <string name="reading_list_article_make_offline">Padarīt rakstu pieejamu bezsaistē</string>
+    <string name="reading_list_article_offline">Pieejams bezsaistē</string>
+    <string name="reading_list_create_new">Izveidot jaunu</string>
+    <string name="reading_list_delete_dialog_cancel_button_text">Atcelt</string>
+    <string name="reading_list_delete_dialog_ok_button_text">Labi</string>
+    <string name="reading_list_deleted">%s izdzēsts</string>
+    <string name="reading_list_description_hint">Apraksts (nav obligāts)</string>
+    <string name="reading_list_download_using_mobile_data_cancel_button_text">Atcelt</string>
+    <string name="reading_list_item_delete_undo">Atsaukt</string>
+    <string name="reading_list_item_deleted">%s izņemts no saraksta</string>
+    <string name="reading_list_menu_delete">Dzēst sarakstu</string>
+    <string name="reading_list_menu_rename">Labot nosaukumu/aprakstu</string>
+    <string name="reading_list_page_share">Dalīties</string>
+    <string name="reading_list_preference_login_to_enable_sync_dialog_cancel">Atcelt</string>
+    <string name="reading_list_prompt_turned_sync_on_dialog_no_thanks">Nē, paldies</string>
+    <string name="reading_list_remove_from_list">Noņemt no %s</string>
+    <string name="reading_list_remove_from_list_dialog_cancel_button_text">Atcelt</string>
+    <string name="reading_list_remove_from_offline_cancel_button_text">Atcelt</string>
+    <string name="reading_list_remove_list_dialog_ok_button_text">Labi</string>
+    <string name="reading_list_select_item">Izvēlēties</string>
+    <string name="reading_list_sort">Kārtot</string>
+    <string name="reading_list_sort_by_name">Kārtot pēc nosaukuma</string>
+    <string name="reading_list_sort_by_name_desc">Kārtot pēc nosaukuma (pretēji)</string>
+    <string fuzzy="true" name="reading_list_sort_by_recent">Kārtot pēc visjaunākā</string>
+    <string fuzzy="true" name="reading_list_sort_by_recent_desc">Kārtot pēc visvecākā</string>
+    <string name="reading_list_sort_ellipsis">Kārtot pēc...</string>
+    <string name="reading_list_split_dialog_ok_button_text">Labi</string>
+    <string name="reading_list_turned_sync_off_dialog_ok">Labi</string>
+    <string name="reading_list_turned_sync_off_dialog_settings">Iestatījumi</string>
+    <string name="reading_lists_confirm_remote_delete_no">Nē</string>
+    <string name="reading_lists_confirm_remote_delete_yes">Jā</string>
+    <string name="reading_lists_menu_create_list">Izveidot jaunu sarakstu</string>
+    <string name="reading_lists_menu_sort_by">Kārtot pēc</string>
+    <string name="reference_list_title">Atsauces</string>
+    <string name="reference_title">Atsauce %s</string>
+    <string name="remove_language_dialog_cancel_button_text">Atcelt</string>
+    <string name="remove_language_dialog_ok_button_text">Labi</string>
+    <string name="reset_password_button">Saglabāt un ieiet</string>
+    <string name="reset_password_hint">Jaunā parole</string>
+    <string name="search_did_you_mean">Vai jūs domājāt \"%s\"?</string>
+    <string name="search_hint">Meklēt Vikipēdijā</string>
+    <string name="search_hint_search_languages">Meklēt valodu</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Meklēt"</string>
+    <string name="search_no_results_found">Nav atrasts neviens rezultāts</string>
+    <string name="search_redirect_from">Pāradresēts no %s</string>
+    <string name="send_feedback">Sūtīt atsauksmes par lietotni</string>
+    <string name="settings_activity_title">Iestatījumi</string>
+    <string name="settings_item_preferences">Iestatījumi</string>
+    <string name="share_via">Dalīties, izmantojot</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_access_error_retry">Mēģināt vēlreiz</string>
+    <string fuzzy="true" name="suggested_edits_add_translation_button">Pievienot tulkojumu</string>
+    <string fuzzy="true" name="suggested_edits_edit_translation_button">Labot tulkojumu</string>
+    <string name="suggested_edits_feed_card_title">Ieteiktie labojumi</string>
+    <string name="suggested_edits_image_caption_summary_title_author">Autors</string>
+    <string name="suggested_edits_image_caption_summary_title_date">Datums</string>
+    <string name="suggested_edits_image_caption_summary_title_image">Fails</string>
+    <string name="suggested_edits_image_caption_summary_title_license">Licence</string>
+    <string name="suggested_edits_image_caption_summary_title_source">Avots</string>
+    <string name="suggested_edits_image_preview_dialog_date">Datums</string>
+    <string name="suggested_edits_image_preview_dialog_licensing">Licencēšana</string>
+    <string name="suggested_edits_last_edited">Pēdējais labojums</string>
+    <string name="suggested_edits_last_edited_never">Nekad</string>
+    <string name="suggested_edits_my_contributions">Mans devums</string>
+    <string fuzzy="true" name="suggested_edits_task_add_description_title">Pievienot aprakstus</string>
+    <string name="suggested_edits_task_multilingual_positive">Pievienot valodas</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="table_close">Aizvērt</string>
+    <string name="table_infobox">Ātrie fakti</string>
+    <string name="table_other">Vairāk informācijas</string>
+    <string name="talk_add_reply">Atbildēt</string>
+    <string name="talk_new_topic">Jauna tēma</string>
+    <string name="talk_page_link_text">Skatīt diskusiju lapu</string>
+    <string name="terms_of_use_description">Lietošanas noteikumi</string>
+    <string name="text_copied">Teksts iekopēts starpliktuvē.</string>
+    <string name="text_input_dialog_cancel_button_text">Atcelt</string>
+    <string name="text_input_dialog_ok_button_text">Labi</string>
+    <string name="text_size_decrease">Samazināt teksta izmēru</string>
+    <string name="text_size_increase">Palielināt teksta izmēru</string>
+    <string fuzzy="true" name="thank_dialog_negative_button_text">ATCELT</string>
+    <string fuzzy="true" name="thank_dialog_positive_button_text">NOSŪTĪT PATEICĪBU</string>
+    <string name="thank_label">Pateikties</string>
+    <string name="thank_success_message">Tava pateicība tika nosūtīta %s 👍</string>
+    <string name="this_year">Šajā gadā</string>
+    <string name="title_captcha">Ievadiet CAPTCHA</string>
+    <string name="toast_logout_complete">Jūs esat izgājis</string>
+    <string name="tool_tip_bookmark_icon_title">Pievienot lasīšanas sarakstam</string>
+    <string name="unnamed_tab_closed">Cilne aizvērta.</string>
+    <string name="user_blocked_from_editing_title">Bloķēts</string>
+    <string name="user_option_sync_label">Izvēles</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IZSLĒGTS"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"IESLĒGTS"</string>
+    <string name="view_announcement_card_negative_action">Nē, paldies</string>
+    <string name="view_because_you_read_card_title">Jo tu lasīji</string>
+    <string name="view_card_news_title">Ziņās</string>
+    <string name="view_continue_reading_card_subtitle_today">šodien</string>
+    <string name="view_featured_image_card_download">Lejupielādēt</string>
+    <string name="view_featured_image_card_title">Dienas attēls</string>
+    <string name="view_main_page_card_action">Skatīt sākumlapu</string>
+    <string name="view_main_page_card_title">Šodien Vikipēdijā</string>
+    <string name="view_next_random_article">Ielādēt vēl vienu nejaušu rakstu</string>
+    <string name="view_random_card_title">Nejauša lapa</string>
+    <string name="view_static_card_save_button_label">Saglabāt</string>
+    <string name="watchlist_details_next_edit">Nākamais labojums</string>
+    <string name="watchlist_details_prev_edit">Iepriekšējais labojums</string>
+    <string name="watchlist_expiry_dialog_permanent">Pastāvīgi</string>
+    <string name="watchlist_page_add_to_watchlist_snackbar_period_permanently">pastāvīgi</string>
+    <string name="wikimedia">Wikimedia</string>
+    <string name="wikipedia_app_faq">Vikipēdijas lietotnes BUJ</string>
+    <string name="wikipedia_languages_add_language_text">Pievienot valodu</string>
+    <string name="wikipedia_languages_remove_action_mode_title">Noņemt valodu</string>
+    <string fuzzy="true" name="wikipedia_languages_remove_dialog_title">Noņemt izvēlētās valodas?</string>
+    <string name="wikipedia_languages_remove_text">Noņemt valodu</string>
+    <string name="wikipedia_languages_remove_warning_dialog_title">Nevar noņemt visas valodas</string>
+    <string name="wikipedia_languages_title">Vikipēdijas valodas</string>
+    <string name="wikipedia_languages_your_languages_text">Tavas valodas</string>
+    <string name="wikitext_bold">Treknraksts</string>
+    <string name="wikitext_italic">Kursīvs</string>
+    <string name="wikitext_link">Saite</string>
+    <string name="wikitext_reference">Atsauce</string>
+    <string name="wikitext_template">Veidne</string>
+    <string name="wp_stylized">&lt;big>V&lt;/big>IKIPĒDIJ&lt;big>A&lt;/big></string>
+</resources>

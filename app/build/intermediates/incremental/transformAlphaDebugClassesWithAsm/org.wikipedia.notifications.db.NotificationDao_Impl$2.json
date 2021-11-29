@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.notifications.db.NotificationDao_Impl$2","classAnnotations":[],"interfaces":[],"superClasses":["androidx.room.EntityDeletionOrUpdateAdapter","androidx.room.SharedSQLiteStatement","java.lang.Object"]}

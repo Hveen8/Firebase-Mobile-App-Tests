@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.FeedCoordinatorBase$hiddenCards$1","classAnnotations":[],"interfaces":["java.io.Serializable","java.lang.Cloneable","java.util.Map"],"superClasses":["java.util.LinkedHashMap","java.util.HashMap","java.util.AbstractMap","java.lang.Object"]}

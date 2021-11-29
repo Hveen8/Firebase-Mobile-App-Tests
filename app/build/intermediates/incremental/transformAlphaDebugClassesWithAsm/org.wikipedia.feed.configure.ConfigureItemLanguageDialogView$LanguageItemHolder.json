@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.configure.ConfigureItemLanguageDialogView$LanguageItemHolder","classAnnotations":[],"interfaces":["android.view.View$OnClickListener"],"superClasses":["org.wikipedia.views.DefaultViewHolder","androidx.recyclerview.widget.RecyclerView$ViewHolder","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.json.LocationSerializer","classAnnotations":[],"interfaces":["kotlinx.serialization.DeserializationStrategy","kotlinx.serialization.KSerializer","kotlinx.serialization.SerializationStrategy"],"superClasses":["java.lang.Object"]}

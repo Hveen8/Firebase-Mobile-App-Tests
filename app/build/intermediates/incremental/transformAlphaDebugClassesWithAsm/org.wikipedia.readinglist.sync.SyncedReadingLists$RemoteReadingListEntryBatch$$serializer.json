@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.readinglist.sync.SyncedReadingLists$RemoteReadingListEntryBatch$$serializer","classAnnotations":["kotlin.Deprecated"],"interfaces":["kotlinx.serialization.DeserializationStrategy","kotlinx.serialization.KSerializer","kotlinx.serialization.SerializationStrategy","kotlinx.serialization.internal.GeneratedSerializer"],"superClasses":["java.lang.Object"]}

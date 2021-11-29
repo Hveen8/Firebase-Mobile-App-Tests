@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.readinglist.sync.SyncedReadingLists","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

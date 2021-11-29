@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.okhttp.GlideRequests","classAnnotations":[],"interfaces":["android.content.ComponentCallbacks","android.content.ComponentCallbacks2","com.bumptech.glide.ModelTypes","com.bumptech.glide.manager.LifecycleListener"],"superClasses":["com.bumptech.glide.RequestManager","java.lang.Object"]}

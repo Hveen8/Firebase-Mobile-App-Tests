@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.pageimages.db.PageImage","classAnnotations":["kotlinx.parcelize.Parcelize","androidx.room.Entity"],"interfaces":["android.os.Parcelable"],"superClasses":["java.lang.Object"]}

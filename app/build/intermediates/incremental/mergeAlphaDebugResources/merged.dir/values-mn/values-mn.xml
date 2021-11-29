@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d шинэ мэдэгдэл</item>
+    <item quantity="other">%d шинэ мэдэгдэл</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Нүүр хуудас уруу шилжих"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Дээш шилжих"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Бусад сонголт"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Болсон"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Бүгдийг харах"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Аппыг сонгох"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ИДЭВХГҮЙ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ИДЭВХТЭЙ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"устгах"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"оруулах"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Функц+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Мета+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Шифт+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"зай"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Цэс+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Хайх…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Асуулга арилгах"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Хайх асуулга"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Хайх"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Асуулга илгээх"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Дуут хайлт"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Дараахтай хуваалцах"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-тай хуваалцах"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Буулгах"</string>
+    <string name="about_wikipedia_url">https://mn.wikipedia.org/wiki/Wikipedia:Википедиагийн_тухай</string>
+    <string name="account_creation_password_hint">Нууц үг</string>
+    <string name="app_name_alpha">Википедиа Альфа хувилбар</string>
+    <string name="app_name_beta">Википедиа Бета хувилбар</string>
+    <string name="app_name_prod">Википедиа</string>
+    <string name="app_settings">Апп-Тохиргоонууд</string>
+    <string name="article_load_error_retry">Давтах</string>
+    <string name="bottomsheet_action_expand_halfway">Хагас дэлгэнэ үү</string>
+    <string name="card_offline_error_retry">Ахиад оролдох</string>
+    <string name="character_counter_content_description">%2$d-н %1$d тэмдэгтийг оруулсан</string>
+    <string name="character_counter_overflowed_content_description">Тэмдэгтийн хязгаар %2$d-н %1$d-с хэтэрсэн</string>
+    <string name="clear_text_end_icon_content_description">Текстийг арилгах</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Идэвхжүүлэх"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play үйлчилгээг идэвхжүүлэх"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Суулгах"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул <ns1:g id="APP_NAME">%1$s</ns1:g> ажиллахгүй."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play үйлчилгээг авах"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play-н үйлчилгээнүүдийн боломжит байдал"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Наадаан үйлчилгээний алдаа"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир <ns1:g id="APP_NAME">%1$s</ns1:g> ажиллахгүй."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Шинэчлэх"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play үйлчилгээг шинэчлэх"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Утсаар нээх"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Нэвтрэх"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google-р нэвтрэх:"</string>
+    <string name="content_license_cc_by_sa">CC BY-SA 3.0</string>
+    <string msgid="3209159573327985035" name="copy">"Хуулах"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Холбоосыг түр санах ойд хуулсан"</string>
+    <string name="create_account_activity_title">Бүртгүүлэх</string>
+    <string name="create_account_button">Бүртгүүлэх</string>
+    <string name="create_account_email_error">Емайл хаяг буруу</string>
+    <string name="create_account_email_hint">Емайл (Албагүй)</string>
+    <string name="create_account_generic_error">Бүртгүүлэх боломжгүй байна</string>
+    <string name="create_account_login">Нэвтрэх</string>
+    <string name="create_account_next">Дараагийн</string>
+    <string name="create_account_password_repeat_hint">Нууц үгээ давтана уу</string>
+    <string name="create_account_passwords_mismatch_error">Нууц үг буруу</string>
+    <string name="create_account_username_hint">Хэрэглэгчийн нэр</string>
+    <string name="dialog_message_clear_history">Үүгээр таны хөтчийн бүх түүх устах ба одоогоор нээлттэй байгаа бүх цонх хаагдах болно. Та итгэлтэй байна уу?</string>
+    <string name="dialog_message_clear_history_no">Үгүй</string>
+    <string name="dialog_message_clear_history_yes">Тийм</string>
+    <string name="dialog_message_edit_failed">Алдаатайг засах!</string>
+    <string name="dialog_message_edit_failed_cancel">Цуцлах</string>
+    <string name="dialog_message_edit_failed_retry">Дахин оролд</string>
+    <string name="dialog_message_leaving_edit">Таны засварууд хадгалагдаагүй байна. Та хуудаснаас гарах гэж байгаа даа итгэлтэй байна уу?</string>
+    <string name="dialog_message_leaving_edit_leave">Орхин одох</string>
+    <string name="dialog_message_leaving_edit_stay">Үлдэх</string>
+    <string name="dialog_title_clear_history">Хөтчийн түүхийг арилгах</string>
+    <string name="edit_history_link_text">Хувилбарын түүхийг үзэх</string>
+    <string name="edit_saved_successfully">Засварууд нийтлэгдсэн!</string>
+    <string name="edit_section_captcha_hint">Дээрх үгнүүдийг давтана уу</string>
+    <string name="edit_section_captcha_message">Автомат спамаас хамгаалахын тулд доор харагдаж байгаа үгнүүдийг оруулна уу</string>
+    <string name="edit_section_captcha_reload">CAPTCHA оруулна уу</string>
+    <string name="edit_section_captcha_request_an_account_message">Та энэ зургийг харж чадахгүй байна уу? &lt;a href=\"https://en.wikipedia.org/wiki/Wikipedia:Request_an_account\">Request an account&lt;/a></string>
+    <string name="edit_section_find_in_page">Хуудаст хай.</string>
+    <string name="error_back">Буцаж очих</string>
+    <string name="error_icon_content_description">Алдаа</string>
+    <string name="error_network_error">Интернэтэд холбогдохгүй байна.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Дэлгэрэнгүй"</string>
+    <string name="exposed_dropdown_menu_content_description">Доош унадаг цэсийг харуулах</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Холбоосыг хуулах"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Хөтчид нээх"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Холбоосыг хуваалцах"</string>
+    <string name="fcm_fallback_notification_channel_label">Бусад</string>
+    <string name="feed_card_add_to_default_list">Хадгалах</string>
+    <string name="feed_card_add_to_list">Унших жагсаалтад нэмэх</string>
+    <string name="filter_hint_filter_my_lists_and_articles">Миний жагсаалтыг шүүх</string>
+    <string name="history_item_delete_undo">Үйлдэл буцаах</string>
+    <string name="history_item_deleted">%s явцын түүхээс устгасан</string>
+    <string name="history_items_deleted">%d Гарчиг явцын түүхээс устгагдсан.</string>
+    <string name="history_list_title">Түүх</string>
+    <string name="icon_content_description">Харилцах цонхны дүрс тэмдэг</string>
+    <string name="image_share_via">Хуваалцахдаа</string>
+    <string name="item_view_role_description">Таб</string>
+    <string name="langlinks_activity_title">Бусад хэл</string>
+    <string name="langlinks_empty">Энэ хуудсыг бусад хэл дээр үзэх боломжгүй.</string>
+    <string name="langlinks_filter_hint">Хайлт</string>
+    <string name="langlinks_no_match">Хэл олдсонгүй</string>
+    <string name="langlinks_your_wikipedia_languages">Таны Википедиа хэл</string>
+    <string name="last_updated_text">Сүүлд шинэчилсэн %s</string>
+    <string name="logged_out_in_background_cancel">Цуцлах</string>
+    <string name="logged_out_in_background_login">Нэвтрэх</string>
+    <string name="logged_out_in_background_title">Гарсан</string>
+    <string name="login_2fa_hint">Хоёр нөхцөлт баталгаажуулалтын код</string>
+    <string name="login_activity_title">Нэвтрэх</string>
+    <string name="login_in_progress_dialog_message">… руу нэвтэрч байна.</string>
+    <string name="login_password_hint">Нууц үг</string>
+    <string name="login_success_toast">Нэвтэрсэн</string>
+    <string name="login_username_hint">Хэрэглэгчийн нэр</string>
+    <string name="logout_dialog_cancel_button_text">Цуцлах</string>
+    <string name="logout_prompt">Та түр зуурын нууц үгээр нэвтэрсэн байна. Нэвтрэх явцыг бүрэн дуусгахын тулд энд та Үүгээр та одоогоор нэвтэрсэн байгаа бүх төхөөрөмжөөс гарч байна. Та гарах явцыг үргэлжлүүлэх үү?</string>
+    <string name="map_view_link_text">Газрын зураг дээр үзэх</string>
+    <string name="material_clock_toggle_content_description">ҮӨ эсвэл ҮХ сонгоно уу</string>
+    <string name="material_hour_selection">Цаг сонгох</string>
+    <string name="material_hour_suffix">%1$s цаг</string>
+    <string name="material_minute_selection">Минут сонгоно уу</string>
+    <string name="material_minute_suffix">%1$s минут</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Цагийг оруулахын тулд цагийн горимд шилжүүлнэ үү.</string>
+    <string name="material_timepicker_hour">Цаг</string>
+    <string name="material_timepicker_minute">Минут</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Цаг сонгох</string>
+    <string name="material_timepicker_text_input_mode_description">Цагийг оруулахын тулд текст оруулах горимд шилжүүлнэ үү.</string>
+    <string name="menu_clear_all_history">Түүх арилгах</string>
+    <string name="menu_login">Нэвтрэх</string>
+    <string name="menu_long_press_copy_page">Холбоос хаягийг хуулах</string>
+    <string name="menu_long_press_open_in_new_tab">Шинэ цонхонд нээх</string>
+    <string name="menu_long_press_open_page">Нээх</string>
+    <string name="menu_page_add_to_default_list">Хадгалах</string>
+    <string name="menu_page_add_to_list">Унших жагсаалтад нэмэх</string>
+    <string name="menu_page_find_in_page">Гарчигт хай.</string>
+    <string name="menu_page_font_and_theme">Үсгийн төрөл болон өнгөний схемийг өөрчлөх</string>
+    <string name="menu_page_new_tab">Шинэ цонх</string>
+    <string name="menu_page_open_a_new_tab">Шинэ цонх нээх</string>
+    <string name="menu_page_other_languages">Хэл солих</string>
+    <string name="menu_page_reading_lists">Унших жагсаалтууд</string>
+    <string name="menu_page_recently_viewed">Сүүлд үзсэн</string>
+    <string name="menu_page_share">Хуваалцах</string>
+    <string name="menu_page_show_tabs">Цонхнуудыг харуулах</string>
+    <string name="menu_save_changes">Өөрчлөлтөө нийтлэх</string>
+    <string name="menu_show_toc">Агуулгын хүснэгт</string>
+    <string name="menu_text_select_define">Тодорхойлох</string>
+    <string name="menu_text_select_edit_here">Энд засварлах</string>
+    <string name="mtrl_badge_numberless_content_description">Шинэ мэдэгдэл</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s-г устгах</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d-с олон шинэ мэдэгдэл</string>
+    <string name="mtrl_picker_a11y_next_month">Дараагийн сар луу өөрчлөх</string>
+    <string name="mtrl_picker_a11y_prev_month">Өмнөх сар луу өөрчлөх</string>
+    <string name="mtrl_picker_announce_current_selection">Одоогийн сонголт: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Огноо сонгох</string>
+    <string name="mtrl_picker_date_header_unselected">Сонгосон огноо</string>
+    <string name="mtrl_picker_day_of_week_column_header">Өдрийн багана: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Буруу формат байна.</string>
+    <string name="mtrl_picker_invalid_format_example">Жишээ нь: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Ашиглах формат: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Огнооны хязгаар буруу байна.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s он руу шилжих</string>
+    <string name="mtrl_picker_out_of_range">Хязгаараас хэтэрсэн: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Эхлэх огноо – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Дуусах огноо</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Муж сонгох</string>
+    <string name="mtrl_picker_range_header_unselected">Эхлэх огноо – Дуусах огноо</string>
+    <string name="mtrl_picker_save">Хадгалах</string>
+    <string name="mtrl_picker_text_input_date_hint">Огноо</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дуусах огноо</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Эхлэх огноо</string>
+    <string name="mtrl_picker_text_input_day_abbr">ө</string>
+    <string name="mtrl_picker_text_input_month_abbr">с</string>
+    <string name="mtrl_picker_text_input_year_abbr">ж</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Календарийн орох горим руу сэлгэх</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Өдөр сонгох руу сэлгэхийн тулд товшино уу</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Текстийн орох горим руу сэлгэх</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Он сонгох руу сэлгэхийн тулд товшино уу</string>
+    <string name="nav_item_back">Буцах</string>
+    <string name="nav_item_forward">Дараах</string>
+    <string name="nav_item_login">Википедиад нэвтрэх</string>
+    <string name="nav_item_more">Илүү</string>
+    <string name="nav_item_search">Хайх</string>
+    <string name="nav_item_suggested_edits">Засварууд</string>
+    <string msgid="478774118347071097" name="not_set">"Тохируулаагүй"</string>
+    <string name="notification_archive_undo">Үйлдэл буцаах</string>
+    <string name="offline_load_error_retry">Давтах</string>
+    <string name="on_this_day_page_share">Хуваалцах</string>
+    <string name="onboarding_card_login">Нэвтрэх</string>
+    <string name="other_languages_indication_text">Өөр хэл дээр унших</string>
+    <string name="page_editing_login">Нэвтрэх</string>
+    <string name="page_error_back_to_main">Буцах</string>
+    <string name="page_error_retry">Дахин оролд</string>
+    <string fuzzy="true" name="page_similar_titles">Бусад утга</string>
+    <string name="page_tabs_back">Буцах</string>
+    <string name="password_toggle_content_description">Нууц үгийг харуулах</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\"-г түр санах ойд хуулсан."</string>
+    <string name="preference_title_language">Википедиагийн хэлнүүд</string>
+    <string name="preference_title_logout">Гарах</string>
+    <string name="preferences_general_heading">Ерөнхий</string>
+    <string name="reading_list_page_share">Хуваалцах</string>
+    <string name="reading_lists_sync_login">Нэвтрэх</string>
+    <string name="reset_password_button">Хадгалаад нэвтрэх</string>
+    <string name="reset_password_description">Та түр зуурын нууц үгээр нэвтэрсэн байна. Нэвтрэх явцыг бүрэн дуусгахын тулд энд та шинэ нууц үгээ товлоно уу!</string>
+    <string name="reset_password_hint">Шинэ нууц үг</string>
+    <string name="reset_password_title">Нууц үгээ товлоно уу</string>
+    <string name="search_hint">Википедиагаас хайх</string>
+    <string name="search_hint_search_languages">Хэл хайх</string>
+    <string name="search_history_no_results">Явцын түүхэнд ямар ч үр дүн олдсонгүй</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Хайх"</string>
+    <string name="search_no_results_found">Үр дүн олдсонгүй</string>
+    <string name="search_reading_list_no_results">\"%s\"-д илэрц олдсонгүй</string>
+    <string name="search_reading_lists_no_results">Жагсаалтыг уншихад үр дүн олдсонгүй</string>
+    <string name="search_redirect_from">%s-с чиглүүлсэн</string>
+    <string name="search_tab_tooltip">Хайсан нэршлийг оруулахын тулд тэмдэгийг  дахин товшино уу.</string>
+    <string name="settings_activity_title">Тохиргоо</string>
+    <string name="share_via">Хуваалцахдаа</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_access_error_retry">Давтах</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="talk_page_link_text">Хэлэлцүүлгийн хуудсыг үзэх</string>
+    <string name="title_captcha">CAPTCHA -г оруулна уу</string>
+    <string name="toast_logout_complete">Гарлаа</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ИДЭВХГҮЙ"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ИДЭВХТЭЙ"</string>
+    <string name="wikimedia">Википедиа</string>
+</resources>

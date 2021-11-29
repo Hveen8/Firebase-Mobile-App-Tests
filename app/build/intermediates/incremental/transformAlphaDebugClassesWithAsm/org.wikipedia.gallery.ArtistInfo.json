@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.gallery.ArtistInfo","classAnnotations":["kotlinx.serialization.Serializable","kotlinx.parcelize.Parcelize"],"interfaces":["android.os.Parcelable"],"superClasses":["org.wikipedia.gallery.TextInfo","java.lang.Object"]}

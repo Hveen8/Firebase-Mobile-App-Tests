@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.ViewHideHandler","classAnnotations":[],"interfaces":["org.wikipedia.views.ObservableWebView$OnClickListener","org.wikipedia.views.ObservableWebView$OnDownMotionEventListener","org.wikipedia.views.ObservableWebView$OnScrollChangeListener","org.wikipedia.views.ObservableWebView$OnUpOrCancelMotionEventListener"],"superClasses":["java.lang.Object"]}

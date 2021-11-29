@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.PageTitle","classAnnotations":["kotlinx.serialization.Serializable","kotlinx.parcelize.Parcelize"],"interfaces":["android.os.Parcelable"],"superClasses":["java.lang.Object"]}

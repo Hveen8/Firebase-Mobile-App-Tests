@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.readinglist.ReadingListFragment$MultiSelectCallback","classAnnotations":[],"interfaces":["androidx.appcompat.view.ActionMode$Callback"],"superClasses":["org.wikipedia.views.MultiSelectActionModeCallback","java.lang.Object"]}

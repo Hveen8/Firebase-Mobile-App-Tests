@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.mainpage.MainPageCard","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.feed.model.WikiSiteCard","org.wikipedia.feed.model.Card","java.lang.Object"]}

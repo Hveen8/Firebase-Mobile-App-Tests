@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.auth.WikimediaAuthenticator","classAnnotations":[],"interfaces":[],"superClasses":["android.accounts.AbstractAccountAuthenticator","java.lang.Object"]}

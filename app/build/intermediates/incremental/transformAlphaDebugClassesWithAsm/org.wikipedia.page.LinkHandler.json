@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.LinkHandler","classAnnotations":[],"interfaces":["org.wikipedia.bridge.CommunicationBridge$JSEventListener","org.wikipedia.page.LinkMovementMethodExt$UrlHandlerWithText"],"superClasses":["java.lang.Object"]}

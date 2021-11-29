@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.mwapi.UserInfo","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["org.wikipedia.dataclient.mwapi.MwServiceError$BlockInfo","java.lang.Object"]}

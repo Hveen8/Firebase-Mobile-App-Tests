@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.ToCHandler$ToCAdapter","classAnnotations":[],"interfaces":["android.widget.Adapter","android.widget.ListAdapter","android.widget.SpinnerAdapter"],"superClasses":["android.widget.BaseAdapter","java.lang.Object"]}

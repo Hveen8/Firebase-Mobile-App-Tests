@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.settings.LongPreference","classAnnotations":[],"interfaces":["java.lang.Comparable"],"superClasses":["org.wikipedia.settings.EditTextAutoSummarizePreference","androidx.preference.EditTextPreference","androidx.preference.DialogPreference","androidx.preference.Preference","java.lang.Object"]}

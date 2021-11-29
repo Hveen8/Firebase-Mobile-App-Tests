@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.image.FeaturedImage","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["org.wikipedia.gallery.GalleryItem","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.becauseyouread.BecauseYouReadCardView$RecyclerAdapter","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.feed.view.ListCardRecyclerAdapter","org.wikipedia.views.DefaultRecyclerAdapter","androidx.recyclerview.widget.RecyclerView$Adapter","java.lang.Object"]}

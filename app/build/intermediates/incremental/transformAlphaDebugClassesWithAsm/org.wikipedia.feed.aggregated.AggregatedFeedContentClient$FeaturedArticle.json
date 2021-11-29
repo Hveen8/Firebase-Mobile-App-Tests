@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.aggregated.AggregatedFeedContentClient$FeaturedArticle","classAnnotations":[],"interfaces":["org.wikipedia.feed.dataclient.FeedClient"],"superClasses":["org.wikipedia.feed.aggregated.AggregatedFeedContentClient$BaseClient","java.lang.Object"]}

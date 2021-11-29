@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.settings.SettingsPreferenceLoader","classAnnotations":[],"interfaces":["org.wikipedia.settings.PreferenceLoader"],"superClasses":["org.wikipedia.settings.BasePreferenceLoader","java.lang.Object"]}

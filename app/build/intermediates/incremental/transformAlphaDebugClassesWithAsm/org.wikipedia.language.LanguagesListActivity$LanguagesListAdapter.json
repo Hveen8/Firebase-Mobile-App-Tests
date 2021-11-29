@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.language.LanguagesListActivity$LanguagesListAdapter","classAnnotations":[],"interfaces":["android.view.View$OnClickListener"],"superClasses":["androidx.recyclerview.widget.RecyclerView$Adapter","java.lang.Object"]}

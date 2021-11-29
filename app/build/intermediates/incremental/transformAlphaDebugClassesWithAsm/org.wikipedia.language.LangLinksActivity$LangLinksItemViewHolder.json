@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.language.LangLinksActivity$LangLinksItemViewHolder","classAnnotations":[],"interfaces":["android.view.View$OnClickListener"],"superClasses":["org.wikipedia.language.LangLinksActivity$DefaultViewHolder","androidx.recyclerview.widget.RecyclerView$ViewHolder","java.lang.Object"]}

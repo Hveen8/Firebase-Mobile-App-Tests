@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.analytics.eventplatform.SamplingConfig$Identifier$$serializer","classAnnotations":["kotlin.Deprecated"],"interfaces":["kotlinx.serialization.DeserializationStrategy","kotlinx.serialization.KSerializer","kotlinx.serialization.SerializationStrategy","kotlinx.serialization.internal.GeneratedSerializer"],"superClasses":["java.lang.Object"]}

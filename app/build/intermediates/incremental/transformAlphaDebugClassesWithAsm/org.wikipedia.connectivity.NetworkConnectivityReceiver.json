@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.connectivity.NetworkConnectivityReceiver","classAnnotations":[],"interfaces":[],"superClasses":["android.content.BroadcastReceiver","java.lang.Object"]}

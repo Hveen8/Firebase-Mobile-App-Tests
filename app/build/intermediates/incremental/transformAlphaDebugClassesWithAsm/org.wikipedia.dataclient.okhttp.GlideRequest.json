@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.okhttp.GlideRequest","classAnnotations":[],"interfaces":["com.bumptech.glide.ModelTypes","java.lang.Cloneable"],"superClasses":["com.bumptech.glide.RequestBuilder","com.bumptech.glide.request.BaseRequestOptions","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.gallery.GalleryItem$StructuredData","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

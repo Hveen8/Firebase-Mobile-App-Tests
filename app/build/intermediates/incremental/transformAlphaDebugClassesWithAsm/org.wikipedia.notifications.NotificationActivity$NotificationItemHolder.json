@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.notifications.NotificationActivity$NotificationItemHolder","classAnnotations":[],"interfaces":["android.view.View$OnClickListener","android.view.View$OnLongClickListener","org.wikipedia.views.SwipeableItemTouchHelperCallback$Callback"],"superClasses":["androidx.recyclerview.widget.RecyclerView$ViewHolder","java.lang.Object"]}

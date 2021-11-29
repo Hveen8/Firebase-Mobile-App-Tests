@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.notifications.NotificationFilterActivity$NotificationsFilterAdapter","classAnnotations":[],"interfaces":["org.wikipedia.notifications.NotificationFilterItemView$Callback"],"superClasses":["androidx.recyclerview.widget.RecyclerView$Adapter","java.lang.Object"]}

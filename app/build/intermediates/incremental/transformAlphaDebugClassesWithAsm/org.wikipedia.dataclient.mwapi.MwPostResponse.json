@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.mwapi.MwPostResponse","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["org.wikipedia.dataclient.mwapi.MwResponse","java.lang.Object"]}

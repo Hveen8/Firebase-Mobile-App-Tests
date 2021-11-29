@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.LinkMovementMethodExt","classAnnotations":[],"interfaces":["android.text.method.MovementMethod"],"superClasses":["android.text.method.LinkMovementMethod","android.text.method.ScrollingMovementMethod","android.text.method.BaseMovementMethod","java.lang.Object"]}

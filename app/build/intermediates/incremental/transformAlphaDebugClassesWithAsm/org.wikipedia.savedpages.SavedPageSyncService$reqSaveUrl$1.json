@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.savedpages.SavedPageSyncService$reqSaveUrl$1","classAnnotations":[],"interfaces":["java.io.Closeable","java.io.Flushable","java.lang.AutoCloseable","okio.Sink"],"superClasses":["java.lang.Object"]}

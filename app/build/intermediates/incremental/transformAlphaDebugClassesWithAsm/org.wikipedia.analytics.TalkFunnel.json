@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.analytics.TalkFunnel","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.analytics.TimedFunnel","org.wikipedia.analytics.Funnel","java.lang.Object"]}

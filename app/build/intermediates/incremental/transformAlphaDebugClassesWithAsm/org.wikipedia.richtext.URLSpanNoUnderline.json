@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.richtext.URLSpanNoUnderline","classAnnotations":[],"interfaces":["android.os.Parcelable","android.text.ParcelableSpan","android.text.style.UpdateAppearance"],"superClasses":["android.text.style.URLSpan","android.text.style.ClickableSpan","android.text.style.CharacterStyle","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.settings.LogoutPreference","classAnnotations":[],"interfaces":["java.lang.Comparable"],"superClasses":["androidx.preference.Preference","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.bridge.CommunicationBridge$CommunicatingChrome","classAnnotations":[],"interfaces":[],"superClasses":["android.webkit.WebChromeClient","java.lang.Object"]}

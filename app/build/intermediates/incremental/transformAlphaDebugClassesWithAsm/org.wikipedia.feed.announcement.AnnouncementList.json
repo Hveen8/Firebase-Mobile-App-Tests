@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.announcement.AnnouncementList","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

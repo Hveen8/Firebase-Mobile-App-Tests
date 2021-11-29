@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.PageFragment$WebViewScrollTriggerListener","classAnnotations":[],"interfaces":["org.wikipedia.views.ObservableWebView$OnContentHeightChangedListener"],"superClasses":["java.lang.Object"]}

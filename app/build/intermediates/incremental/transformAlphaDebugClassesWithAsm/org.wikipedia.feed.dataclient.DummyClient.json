@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.dataclient.DummyClient","classAnnotations":[],"interfaces":["org.wikipedia.feed.dataclient.FeedClient"],"superClasses":["java.lang.Object"]}

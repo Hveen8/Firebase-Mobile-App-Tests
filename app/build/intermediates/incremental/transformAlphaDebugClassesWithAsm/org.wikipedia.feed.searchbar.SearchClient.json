@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.searchbar.SearchClient","classAnnotations":[],"interfaces":["org.wikipedia.feed.dataclient.FeedClient"],"superClasses":["org.wikipedia.feed.dataclient.DummyClient","java.lang.Object"]}

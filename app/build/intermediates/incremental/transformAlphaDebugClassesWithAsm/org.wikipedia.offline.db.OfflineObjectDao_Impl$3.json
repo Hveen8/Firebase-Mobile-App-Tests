@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.offline.db.OfflineObjectDao_Impl$3","classAnnotations":[],"interfaces":[],"superClasses":["androidx.room.EntityDeletionOrUpdateAdapter","androidx.room.SharedSQLiteStatement","java.lang.Object"]}

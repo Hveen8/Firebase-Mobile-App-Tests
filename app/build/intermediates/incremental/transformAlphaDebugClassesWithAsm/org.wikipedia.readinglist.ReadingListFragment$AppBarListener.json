@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.readinglist.ReadingListFragment$AppBarListener","classAnnotations":[],"interfaces":["com.google.android.material.appbar.AppBarLayout$BaseOnOffsetChangedListener","com.google.android.material.appbar.AppBarLayout$OnOffsetChangedListener"],"superClasses":["java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.SharedPreferenceCookieManager","classAnnotations":[],"interfaces":["okhttp3.CookieJar"],"superClasses":["java.lang.Object"]}

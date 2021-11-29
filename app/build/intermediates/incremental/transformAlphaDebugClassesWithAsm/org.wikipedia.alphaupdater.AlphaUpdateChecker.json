@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.alphaupdater.AlphaUpdateChecker","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.recurring.RecurringTask","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.news.NewsCard","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.feed.model.WikiSiteCard","org.wikipedia.feed.model.Card","java.lang.Object"]}

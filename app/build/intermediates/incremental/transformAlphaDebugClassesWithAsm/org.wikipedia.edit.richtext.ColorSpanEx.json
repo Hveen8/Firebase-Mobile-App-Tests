@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.edit.richtext.ColorSpanEx","classAnnotations":[],"interfaces":["android.os.Parcelable","android.text.ParcelableSpan","android.text.style.UpdateAppearance","org.wikipedia.edit.richtext.SpanExtents"],"superClasses":["android.text.style.ForegroundColorSpan","android.text.style.CharacterStyle","java.lang.Object"]}

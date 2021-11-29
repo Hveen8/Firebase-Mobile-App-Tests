@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.restbase.RbServiceError","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":["org.wikipedia.dataclient.ServiceError"],"superClasses":["java.lang.Object"]}

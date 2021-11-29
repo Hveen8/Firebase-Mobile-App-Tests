@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.view.ListCardRecyclerAdapter","classAnnotations":[],"interfaces":[],"superClasses":["org.wikipedia.views.DefaultRecyclerAdapter","androidx.recyclerview.widget.RecyclerView$Adapter","java.lang.Object"]}

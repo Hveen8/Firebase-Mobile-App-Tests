@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.page.ToCHandler","classAnnotations":[],"interfaces":["org.wikipedia.views.ObservableWebView$OnClickListener","org.wikipedia.views.ObservableWebView$OnContentHeightChangedListener","org.wikipedia.views.ObservableWebView$OnScrollChangeListener"],"superClasses":["java.lang.Object"]}

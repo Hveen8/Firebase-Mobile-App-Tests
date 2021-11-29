@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">Arifa %d mpya</item>
+    <item quantity="other">Arifa %d mpya</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Nenda mwanzo"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Sogeza juu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Chaguo zaidi"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Nimemaliza"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Angalia zote"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chagua programu"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IMEZIMWA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IMEWASHWA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tafuta…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Futa hoja"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tafuta"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wasilisha hoja"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Kutafuta kwa kutamka"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Shiriki na"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Shiriki ukitumia <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Kunja"</string>
+    <string name="about_activity_title">Kuhusu</string>
+    <string name="about_contributors_heading">Wachangiaji</string>
+    <string name="about_description">Kuhusu programu tumizi ya Wikimedia</string>
+    <string name="about_libraries_heading">Maktaba yanayotumiwa</string>
+    <string name="about_translators_heading">Wafasiri</string>
+    <string name="about_translators_translatewiki">Programu tumizi hii imetafsiriwa na wahnga katika &lt;a href=\"https://translatewiki.net\">translatewiki.net&lt;/a>.</string>
+    <string name="about_wikipedia_url">https://sw.wikipedia.org/wiki/Wikipedia:About</string>
+    <string name="about_wmf">Bidhaa ya &lt;a href=\"https://wikimediafoundation.org/\">Uanzilishi wa Wikimedia&lt;/a></string>
+    <string name="account_editing_blocked_dialog_cancel_button_text">Ghairi</string>
+    <string name="app_name_alpha">Wikipedia ya Alpha</string>
+    <string name="app_name_beta">Wikipedia ya Beta</string>
+    <string name="app_name_prod">Wikipedia</string>
+    <string name="app_shortcuts_search">Tafuta</string>
+    <string name="article_header_edit_hint">Hariri...</string>
+    <string name="bottomsheet_action_expand_halfway">Panua nusu</string>
+    <string name="button_continue_to_article">Soma makala</string>
+    <string name="cc_logo">Leseni ya Creative Commons</string>
+    <string name="character_counter_content_description">Umeweka herufi %1$d kati ya %2$d</string>
+    <string name="character_counter_overflowed_content_description">Umepitisha idadi ya juu ya herufi %1$d kati ya %2$d</string>
+    <string name="clear_recent_searches_confirm_no">Hapana</string>
+    <string name="clear_recent_searches_confirm_yes">Ndiyo</string>
+    <string name="clear_text_end_icon_content_description">Futa maandishi</string>
+    <string name="close_all_tabs_confirm_no">Hapana</string>
+    <string name="close_all_tabs_confirm_yes">Ndiyo</string>
+    <string name="color_theme_black">Nyeusi</string>
+    <string name="color_theme_dark">Kolevu</string>
+    <string name="color_theme_light">Hafifu</string>
+    <string name="color_theme_select">Modi</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Washa"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi isipokuwa uwashe huduma za Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Washa huduma za Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Sakinisha"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pata huduma za Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Upatikanaji wa huduma za Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Hitilafu kwenye huduma za Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Sasisha"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi hadi usasishe huduma za Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Sasisha huduma za Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Toleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Fungua kwenye simu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Ingia katika akaunti"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Ingia katika akaunti ukitumia Google"</string>
+    <string msgid="3209159573327985035" name="copy">"Nakili"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Imenakili kiungo kwenye ubao wa kunakili"</string>
+    <string name="crash_report_quit">Ondoka</string>
+    <string name="create_account_account_created_toast">Akaunti imeundwa!</string>
+    <string name="create_account_activity_title">Unda akaunti</string>
+    <string name="create_account_button">Unda akaunti</string>
+    <string name="create_account_email_error">Anwani batili ya barua pepe</string>
+    <string name="create_account_email_hint">Barua pepe(sio lazima)</string>
+    <string name="create_account_generic_error">Haikufaulu kuunda akaunti</string>
+    <string name="create_account_next">Inayofuata</string>
+    <string name="create_account_password_repeat_hint">Rudia neno la siri</string>
+    <string name="create_account_passwords_mismatch_error">Maneno ya siri hayafanani</string>
+    <string name="create_account_username_hint">Jina la mtumiaji</string>
+    <string name="custom_date_picker_dialog_cancel_button_text">Ghairi</string>
+    <string name="custom_date_picker_dialog_ok_button_text">Sawa</string>
+    <string name="customize_lang_selection_dialog_cancel_button_text">Ghairi</string>
+    <string name="customize_lang_selection_dialog_ok_button_text">Sawa</string>
+    <string name="description_edit_cancel_hint">Ghairi</string>
+    <string name="description_edit_login_cancel_button_text">Futa</string>
+    <string name="dialog_close_description">Funga</string>
+    <string name="dialog_create_account_checking_progress">Inadhibitisha</string>
+    <string name="dialog_message_clear_history_no">Siyo</string>
+    <string name="dialog_message_clear_history_yes">Ndiyo</string>
+    <string name="dialog_message_edit_failed_cancel">Ghairi</string>
+    <string name="dialog_message_edit_failed_retry">Jaribu tena</string>
+    <string name="dialog_message_leaving_edit_leave">Toka</string>
+    <string name="dialog_message_leaving_edit_stay">Kaa</string>
+    <string fuzzy="true" name="dialog_title_clear_history">Futa historia ya kuvijari?</string>
+    <string name="edit_abandon_confirm_no">Hapana</string>
+    <string name="edit_abandon_confirm_yes">Ndiyo</string>
+    <string name="edit_conflict_dialog_ok_button_text">Sawa</string>
+    <string fuzzy="true" name="edit_done">Hifadhi</string>
+    <string name="edit_next">Inayofuata</string>
+    <string name="edit_preview">Onyesha hakikisho</string>
+    <string fuzzy="true" name="edit_saved_successfully">Hariri imehifadhiwa!</string>
+    <string name="edit_section_captcha_reload">Guza CAPTCHA kupakia tena</string>
+    <string name="edit_summary_tag_grammar">Nimerekebisha sarufi</string>
+    <string name="edit_summary_tag_links">Nimeongeza viungo</string>
+    <string name="edit_summary_tag_other">Nyingine</string>
+    <string name="edit_summary_tag_other_hint">Njia zingine ulizoboresha ukurasa</string>
+    <string name="err_cannot_save_file">Haiwezi kuhifadhi faili</string>
+    <string name="error_can_not_process_link">Haingeonyesha kiungo hiki</string>
+    <string name="error_icon_content_description">Hitilafu</string>
+    <string fuzzy="true" name="error_network_error">Hakuna muunganisho kwa mtandao :(</string>
+    <string name="error_page_does_not_exist">Ukarasa haupo.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Mipangilio ya Kina"</string>
+    <string name="exposed_dropdown_menu_content_description">Onyesha menyu kunjuzi</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Nakili kiungo"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Fungua katika kivinjari"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Shiriki kiungo"</string>
+    <string name="fcm_fallback_notification_channel_label">Zinginezo</string>
+    <string name="feed_lang_selection_dialog_cancel_button_text">Ghairi</string>
+    <string name="feed_lang_selection_dialog_ok_button_text">Sawa</string>
+    <string name="find_next">Tafuta ifuatayo</string>
+    <string name="find_previous">Tafuta iliyotangulia</string>
+    <string name="gallery_menu_share">Gawa</string>
+    <string name="gallery_share_error">Haingeshiriki picha: %s</string>
+    <string name="history_list_title">Historia</string>
+    <string name="icon_content_description">Aikoni ya Kidirisha</string>
+    <string name="item_view_role_description">Kichupo</string>
+    <string name="langlinks_activity_title">Lugha zingine</string>
+    <string name="langlinks_empty">Ukurasa huu haupatikani katika lugha zingine.</string>
+    <string name="langlinks_filter_hint">Tafuta</string>
+    <string name="languages_list_all_text">Lugha zote</string>
+    <string name="last_updated_text">Ilisasishwa mwisho %s</string>
+    <string fuzzy="true" name="login_activity_title">Ingia katika Wikipedia</string>
+    <string name="login_in_progress_dialog_message">Inakuingiza…</string>
+    <string name="login_password_hint">Neno la siri</string>
+    <string fuzzy="true" name="login_success_toast">Umefaulu kuingia</string>
+    <string name="login_username_hint">Jina la mtumiaji</string>
+    <string name="logout_dialog_cancel_button_text">Ghairi</string>
+    <string name="material_clock_toggle_content_description">Chagua AM au PM</string>
+    <string name="material_hour_selection">Chagua saa</string>
+    <string name="material_hour_suffix">Saa %1$s kamili</string>
+    <string name="material_minute_selection">Chagua dakika</string>
+    <string name="material_minute_suffix">Dakika %1$s</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Badilisha umbo liwe la saa ya mishale wakati wa kuweka muda.</string>
+    <string name="material_timepicker_hour">Saa</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Chagua wakati</string>
+    <string name="material_timepicker_text_input_mode_description">Badilisha iwe katika hali ya maandishi wakati wa kuweka muda.</string>
+    <string name="menu_clear_all_history">Futa historia</string>
+    <string name="menu_login">Ingia</string>
+    <string fuzzy="true" name="menu_page_find_in_page">Tafuta katika ukurasa</string>
+    <string fuzzy="true" name="menu_page_other_languages">Soma katika lugha zingine</string>
+    <string fuzzy="true" name="menu_page_share">Gawa</string>
+    <string fuzzy="true" name="menu_save_changes">Hifadhi mabadiliko</string>
+    <string name="menu_show_toc">Jedwali la maudhui</string>
+    <string name="more_language_options">zaidi</string>
+    <string name="mtrl_badge_numberless_content_description">Arifa mpya</string>
+    <string name="mtrl_chip_close_icon_content_description">Ondoa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Zaidi ya arifa %1$d mpya</string>
+    <string name="mtrl_picker_a11y_next_month">Nenda kwenye mwezi unaofuata</string>
+    <string name="mtrl_picker_a11y_prev_month">Rudi kwenye mwezi uliotangulia</string>
+    <string name="mtrl_picker_announce_current_selection">Uteuzi wa sasa: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chagua Tarehe</string>
+    <string name="mtrl_picker_date_header_unselected">Tarehe uliyochagua</string>
+    <string name="mtrl_picker_day_of_week_column_header">Safu wima ya siku: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Muundo si sahihi</string>
+    <string name="mtrl_picker_invalid_format_example">Mfano: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tumia: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Kipindi si sahihi.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Sogeza kwenye mwaka wa %1$s</string>
+    <string name="mtrl_picker_out_of_range">Nje ya kipindi: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tarehe ya kuanza – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tarehe ya mwisho</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chagua Kipindi cha Tarehe</string>
+    <string name="mtrl_picker_range_header_unselected">Tarehe ya kuanza – Tarehe ya mwisho</string>
+    <string name="mtrl_picker_save">Hifadhi</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarehe</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tarehe ya mwisho</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tarehe ya kuanza</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Tumia programu ya kuingiza data kwenye kalenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Gusa ili uende kwenye sehemu ya kuchagua siku</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Tumia programu ya kuingiza data ya maandishi</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Gusa ili uende kwenye sehemu ya kuchagua mwaka</string>
+    <string name="nav_item_back">Nyuma</string>
+    <string name="nav_item_forward">Mbele</string>
+    <string fuzzy="true" name="nav_item_login">Ingia</string>
+    <string msgid="478774118347071097" name="not_set">"Haijawekwa"</string>
+    <string name="notification_syncing_cancel_button">Ghairi</string>
+    <string name="on_this_day_card_title">Katika siku hii</string>
+    <string name="page_error_retry">Jaribu tena</string>
+    <string name="page_protected_autoconfirmed">Ukurasa huu umezuiwa kiasi</string>
+    <string name="page_protected_can_not_edit_title">Ukurasa huu umezuiwa</string>
+    <string name="page_protected_sysop">Ukurasa huu umezuiwa kabisa.</string>
+    <string name="page_similar_titles">Kurasa zifananazo</string>
+    <string name="page_tabs_back">Rudi</string>
+    <string name="password_toggle_content_description">Onyesha nenosiri</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" imenakiliwa kwenye ubao wa kunakili."</string>
+    <string name="preference_title_eventlogging_opt_in">Tuma ripoti za matumizi</string>
+    <string fuzzy="true" name="preference_title_language">Lugha ya Wikipedia</string>
+    <string name="preference_title_logout">Toka</string>
+    <string name="preference_title_notification_thanks">Asante</string>
+    <string name="preference_title_show_images">Onyesha picha</string>
+    <string name="preferences_general_heading">Kijumla</string>
+    <string name="privacy_policy_description">Sera ya faragha</string>
+    <string name="protected_page_warning_dialog_ok_button_text">Sawa</string>
+    <string name="read_more_section">Soma zaidi</string>
+    <string name="reading_list_added_view_button">Tazama orodha</string>
+    <string name="reading_list_delete_dialog_cancel_button_text">Batilisha</string>
+    <string name="reading_list_delete_dialog_ok_button_text">Sawa</string>
+    <string name="reading_list_download_using_mobile_data_cancel_button_text">Batilisha</string>
+    <string name="reading_list_item_delete_undo">Tengua</string>
+    <string name="reading_list_preference_login_to_enable_sync_dialog_cancel">Ghairisha</string>
+    <string name="reading_list_preference_login_to_enable_sync_dialog_login">Ingia</string>
+    <string name="reading_list_remove_from_list_dialog_cancel_button_text">Batilisha</string>
+    <string name="reading_list_remove_from_offline_cancel_button_text">Batilisha</string>
+    <string name="reading_list_remove_list_dialog_ok_button_text">Sawa</string>
+    <string name="reading_list_split_dialog_ok_button_text">Sawa</string>
+    <string name="reading_list_turned_sync_off_dialog_ok">Sawa</string>
+    <string name="reading_list_turned_sync_off_dialog_settings">Mipangilio</string>
+    <string name="reading_lists_confirm_remote_delete_no">Hapana</string>
+    <string name="reading_lists_confirm_remote_delete_yes">Ndiyo</string>
+    <string name="remove_all_language_warning_dialog_ok_button_text">Sawa</string>
+    <string name="remove_language_dialog_cancel_button_text">Ghairi</string>
+    <string name="remove_language_dialog_ok_button_text">Sawa</string>
+    <string name="reverted_edit_dialog_ok_button_text">Sawa</string>
+    <string name="search_did_you_mean">Je ulimaanisha \"%s\"?</string>
+    <string name="search_hint">Tafuta Wikipedia</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tafuta"</string>
+    <string name="search_no_results_found">Hakuna matokeo</string>
+    <string name="search_results_count_zero">Hakuna matokeo</string>
+    <string name="send_feedback">Toa maoni ya programu timizi</string>
+    <string name="settings_activity_title">Mipangilio</string>
+    <string name="settings_item_preferences">Mipangilio</string>
+    <string name="share_via">Shiriki kupitia</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suggested_edits_my_contributions">Michango yangu</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="table_close">Funga</string>
+    <string name="table_other">Maelezo zaidi</string>
+    <string name="talk_message_empty">Ujumbe hauwezi kuwa tupu.</string>
+    <string name="talk_message_hint">Tunga ujumbe</string>
+    <string name="talk_reply_hint">Tunga majibu</string>
+    <string name="talk_reply_subject">Mada:</string>
+    <string name="talk_subject_empty">Mada haiwezi kuwa tupu</string>
+    <string name="terms_of_use_description">Masharti ya matumizi</string>
+    <string name="text_input_dialog_cancel_button_text">Ghairi</string>
+    <string name="text_input_dialog_ok_button_text">Sawa</string>
+    <string name="this_year">Mwaka huu</string>
+    <string name="title_captcha">Ingiza CAPTCHA</string>
+    <string name="user_blocked_from_editing_title">Imezuia</string>
+    <string name="user_option_sync_label">Mapendekezo</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IMEZIMWA"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"IMEWASHWA"</string>
+    <string name="view_continue_reading_card_subtitle_today">leo</string>
+    <string name="view_featured_image_card_download">Pakua</string>
+    <string name="view_featured_image_card_title">Picha ya siku</string>
+    <string name="view_static_card_save_button_label">Hifadhi</string>
+    <string name="wikipedia_languages_title">Lugha ya Wikipedia</string>
+    <string name="wikipedia_languages_your_languages_text">Lugha yenu</string>
+    <string name="wikitext_bold">Koze</string>
+    <string name="wikitext_italic">Mlazo</string>
+    <string name="wikitext_link">Kiungo</string>
+    <string name="wikitext_reference">Marejeo</string>
+    <string name="wikitext_template">Kigezo</string>
+    <string name="wp_stylized">&lt;big>W&lt;/big>IKIPEDI&lt;big>A&lt;/big></string>
+</resources>

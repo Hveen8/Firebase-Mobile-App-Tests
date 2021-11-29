@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.dataclient.restbase.DiffResponse$RevisionSection","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

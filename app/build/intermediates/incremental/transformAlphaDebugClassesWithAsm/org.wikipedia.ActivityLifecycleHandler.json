@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.ActivityLifecycleHandler","classAnnotations":[],"interfaces":["android.app.Application$ActivityLifecycleCallbacks","android.content.ComponentCallbacks","android.content.ComponentCallbacks2"],"superClasses":["java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.feed.model.CardType$ONBOARDING_CUSTOMIZE_FEED","classAnnotations":[],"interfaces":["java.io.Serializable","java.lang.Comparable","org.wikipedia.model.EnumCode"],"superClasses":["org.wikipedia.feed.model.CardType","java.lang.Enum","java.lang.Object"]}

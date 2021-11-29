@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.gallery.GalleryThumbnailScrollView$GalleryItemHolder","classAnnotations":["android.annotation.SuppressLint"],"interfaces":["android.view.View$OnClickListener","android.view.View$OnTouchListener"],"superClasses":["androidx.recyclerview.widget.RecyclerView$ViewHolder","java.lang.Object"]}

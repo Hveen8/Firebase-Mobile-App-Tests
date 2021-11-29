@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.edit.preview.EditPreviewFragment$EditLinkHandler","classAnnotations":[],"interfaces":["org.wikipedia.bridge.CommunicationBridge$JSEventListener","org.wikipedia.page.LinkMovementMethodExt$UrlHandlerWithText"],"superClasses":["org.wikipedia.page.LinkHandler","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.gallery.GalleryActivity$GalleryPageChangeListener","classAnnotations":[],"interfaces":[],"superClasses":["androidx.viewpager2.widget.ViewPager2$OnPageChangeCallback","java.lang.Object"]}

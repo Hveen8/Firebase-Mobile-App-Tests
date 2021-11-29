@@ -1,0 +1,1 @@
+{"className":"org.wikipedia.analytics.eventplatform.EventServiceResponse","classAnnotations":["kotlinx.serialization.Serializable"],"interfaces":[],"superClasses":["java.lang.Object"]}

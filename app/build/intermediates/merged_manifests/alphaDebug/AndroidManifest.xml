@@ -3,7 +3,7 @@
     package="org.wikipedia.alpha"
     android:installLocation="auto"
     android:versionCode="50387"
-    android:versionName="2.7.50387-alpha-2021-11-29" >
+    android:versionName="2.7.50387-alpha-2021-11-30" >
 
     <uses-sdk
         android:minSdkVersion="21"

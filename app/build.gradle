@@ -74,11 +74,11 @@ android {
 
     sourceSets {
 
-        prod { java.srcDirs += 'src/extra/java' }
-        beta { java.srcDirs += 'src/extra/java' }
+//        prod { java.srcDirs += 'src/extra/java' }
+//        beta { java.srcDirs += 'src/extra/java' }
         alpha { java.srcDirs += 'src/extra/java' }
-        dev { java.srcDirs += 'src/extra/java' }
-        custom { java.srcDirs += 'src/extra/java' }
+//        dev { java.srcDirs += 'src/extra/java' }
+//        custom { java.srcDirs += 'src/extra/java' }
 
         test {
             java.srcDirs += 'src/testlib/java'
@@ -114,41 +114,41 @@ android {
     flavorDimensions 'default'
 
     productFlavors {
-        dev {
-            versionName computeVersionName('dev')
-            applicationIdSuffix '.dev'
-            buildConfigField "String", "META_WIKI_BASE_URI", '"https://meta.wikimedia.beta.wmflabs.org"'
-            buildConfigField "String", "EVENTGATE_ANALYTICS_EXTERNAL_BASE_URI", '"https://intake-analytics.wikimedia.beta.wmflabs.org"'
-            buildConfigField "String", "EVENTGATE_LOGGING_EXTERNAL_BASE_URI", '"https://intake-logging.wikimedia.beta.wmflabs.org"'
-
-            def TEST_LOGIN_USERNAME = System.getenv('TEST_LOGIN_USERNAME')
-            def TEST_LOGIN_PASSWORD = System.getenv('TEST_LOGIN_PASSWORD')
-            buildConfigField "String", "TEST_LOGIN_USERNAME", TEST_LOGIN_USERNAME != null ? "\"${TEST_LOGIN_USERNAME}\"" : '"Foo"'
-            buildConfigField "String", "TEST_LOGIN_PASSWORD", TEST_LOGIN_PASSWORD != null ? "\"${TEST_LOGIN_PASSWORD}\"" : '"Bar"'
-        }
-        prod {
-            versionName computeVersionName('r')
-            signingConfig signingConfigs.prod
-        }
+//        dev {
+//            versionName computeVersionName('dev')
+//            applicationIdSuffix '.dev'
+//            buildConfigField "String", "META_WIKI_BASE_URI", '"https://meta.wikimedia.beta.wmflabs.org"'
+//            buildConfigField "String", "EVENTGATE_ANALYTICS_EXTERNAL_BASE_URI", '"https://intake-analytics.wikimedia.beta.wmflabs.org"'
+//            buildConfigField "String", "EVENTGATE_LOGGING_EXTERNAL_BASE_URI", '"https://intake-logging.wikimedia.beta.wmflabs.org"'
+//
+//            def TEST_LOGIN_USERNAME = System.getenv('TEST_LOGIN_USERNAME')
+//            def TEST_LOGIN_PASSWORD = System.getenv('TEST_LOGIN_PASSWORD')
+//            buildConfigField "String", "TEST_LOGIN_USERNAME", TEST_LOGIN_USERNAME != null ? "\"${TEST_LOGIN_USERNAME}\"" : '"Foo"'
+//            buildConfigField "String", "TEST_LOGIN_PASSWORD", TEST_LOGIN_PASSWORD != null ? "\"${TEST_LOGIN_PASSWORD}\"" : '"Bar"'
+//        }
+//        prod {
+//            versionName computeVersionName('r')
+//            signingConfig signingConfigs.prod
+//        }
         alpha {
             versionName computeVersionName('alpha')
             applicationIdSuffix '.alpha'
         }
-        beta {
-            versionName computeVersionName('beta')
-            applicationIdSuffix '.beta'
-            signingConfig signingConfigs.prod
-        }
-        fdroid {
-            versionName computeVersionName('fdroid')
-            signingConfig signingConfigs.prod
-        }
-        custom {
-            versionName computeVersionName(customChannel)
-            // next line is for injecting a custom channel value into the custom/AndroidManifest.xml
-            manifestPlaceholders = [customChannel:getProperty('customChannel').toString()]
-            signingConfig signingConfigs.prod
-        }
+//        beta {
+//            versionName computeVersionName('beta')
+//            applicationIdSuffix '.beta'
+//            signingConfig signingConfigs.prod
+//        }
+//        fdroid {
+//            versionName computeVersionName('fdroid')
+//            signingConfig signingConfigs.prod
+//        }
+//        custom {
+//            versionName computeVersionName(customChannel)
+//            // next line is for injecting a custom channel value into the custom/AndroidManifest.xml
+//            manifestPlaceholders = [customChannel:getProperty('customChannel').toString()]
+//            signingConfig signingConfigs.prod
+//        }
     }
 
     testOptions {
@@ -241,18 +241,18 @@ dependencies {
     implementation "androidx.room:room-rxjava3:$roomVersion"
 
     // For language detection during editing
-    prodImplementation "com.google.mlkit:language-id:$mlKitVersion"
-    betaImplementation "com.google.mlkit:language-id:$mlKitVersion"
+//    prodImplementation "com.google.mlkit:language-id:$mlKitVersion"
+//    betaImplementation "com.google.mlkit:language-id:$mlKitVersion"
     alphaImplementation "com.google.mlkit:language-id:$mlKitVersion"
-    devImplementation "com.google.mlkit:language-id:$mlKitVersion"
-    customImplementation "com.google.mlkit:language-id:$mlKitVersion"
+//    devImplementation "com.google.mlkit:language-id:$mlKitVersion"
+//    customImplementation "com.google.mlkit:language-id:$mlKitVersion"
 
     // For receiving push notifications for logged-in users.
-    prodImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
-    betaImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
+//    prodImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
+//    betaImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
     alphaImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
-    devImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
-    customImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
+//    devImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
+//    customImplementation "com.google.firebase:firebase-messaging-ktx:$firebaseMessagingVersion"
 
     debugImplementation "com.squareup.leakcanary:leakcanary-android:$leakCanaryVersion"
     implementation "com.squareup.leakcanary:plumber-android:$leakCanaryVersion"

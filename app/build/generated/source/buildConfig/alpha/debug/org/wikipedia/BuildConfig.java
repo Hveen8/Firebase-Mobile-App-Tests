@@ -9,7 +9,7 @@ public final class BuildConfig {
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "alpha";
   public static final int VERSION_CODE = 50387;
-  public static final String VERSION_NAME = "2.7.50387-alpha-2021-11-29";
+  public static final String VERSION_NAME = "2.7.50387-alpha-2021-11-30";
   // Field from default config.
   public static final String DEFAULT_RESTBASE_URI_FORMAT = "%1$s://%2$s/api/rest_v1/";
   // Field from default config.

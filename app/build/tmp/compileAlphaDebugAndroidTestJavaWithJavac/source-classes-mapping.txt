@@ -1,0 +1,9 @@
+org/wikipedia/main/espressoTest.java
+ org.wikipedia.main.espressoTest
+ org.wikipedia.main.espressoTest$1
+org/wikipedia/testlib/TestLatch.java
+ org.wikipedia.testlib.TestLatch
+org/wikipedia/test/BuildConfig.java
+ org.wikipedia.test.BuildConfig
+org/wikipedia/testlib/TestConstants.java
+ org.wikipedia.testlib.TestConstants
